@@ -1,4 +1,9 @@
+
 {
-  "version": "e514b31e",
-  "vocabulary_url": "https://raw.githubusercontent.com/Xeroint-Technologies/asset-korea-gbrn/main/github-data/vocabulary.json"
+  "version": "1.0.0",
+  "version_code": 1,
+  "apk_url": "ISI_LINK_GOOGLE_DRIVE_APK_KAMU",
+  "vocabulary_url": "https://raw.githubusercontent.com/Xeroint-Technologies/asset-korea-gbrn/main/github-data/vocabulary.json",
+  "data_version": "1.0.0",
+  "changelog": "Rilis awal"
 }
