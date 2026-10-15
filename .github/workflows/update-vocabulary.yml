@@ -1,0 +1,44 @@
+name: Buat JSON kosakata dari CSV
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "github-data/vocabulary.csv"
+      - "tools/csv_to_json.py"
+
+permissions:
+  contents: write
+
+jobs:
+  build-vocabulary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ambil repository
+        uses: actions/checkout@v4
+      - name: Siapkan Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Buat vocabulary.json
+        run: python tools/csv_to_json.py
+      - name: Perbarui versi manifest
+        run: |
+          VERSION="$(git rev-parse --short=8 HEAD)"
+          python - "$VERSION" <<'PY'
+          import json, sys
+          from pathlib import Path
+          p = Path("github-data/manifest.json")
+          data = json.loads(p.read_text(encoding="utf-8"))
+          data["version"] = sys.argv[1]
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
+      - name: Simpan hasil ke GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-data/vocabulary.json github-data/manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: generate vocabulary JSON"
+            git push
+          fi
