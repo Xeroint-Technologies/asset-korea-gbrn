@@ -1,0 +1,3014 @@
+﻿id,sourceNumber,korean,meaning
+1,1,한글 익하기,Mempelajari Huruf Korea
+2,2,소개,Perkenalan
+3,3,조선시대,Dinasti Joseon
+4,4,세종대왕,Raja Sejong
+5,5,모양,Bentuk
+6,6,윗잇몸,Gusi
+7,7,하늘,Langit
+8,8,땅,Tanah
+9,9,사자,Singa
+10,10,새우,Udang
+11,11,네모,Persegi
+12,12,치마,Rok
+13,13,포도,Anggur
+14,14,커피,Kopi
+15,15,카메라,Kamera
+16,16,타조,Burung unta
+17,17,까치,Burung murai
+18,18,뿌리,Akar
+19,19,귀뚜라미,Jangkrik
+20,20,찌개,Rebusan / Lodeh
+21,21,아래,Bawah
+22,22,결합,Penyatuan/Penggabungan
+23,23,첫소리,Bunyi pertama
+24,24,인사,Salam
+25,25,안녕하세요?,Selamat pagi/ siang/malam
+26,26,안녕히 계세요,Selamat tinggal
+27,27,안녕히 가세요,Selamat jalan
+28,28,죄송합니다,Maaf
+29,29,괜찮습니다,Tidak apa-apa
+30,30,감사합니다,Terima kasih
+31,31,고맙습니다,Terima kasih
+32,32,아닙니다,Tidak
+33,33,처음 뵙겠습니다,Senang pertama kali bertemu
+34,34,만나서 반갑습니다,Senang bertemu denganmu
+35,35,주말 잘보내세요,Selamat berakhir pecan
+36,36,"네, 주말 잘보내세요","Ya, selamat berakhir pecan"
+37,37,실례합니다,Permisi
+38,38,BAB 1 자기소개,Perkenalan diri
+39,39,간호사,Perawat
+40,40,경찰관,Polisi
+41,41,근로자,Pekerja
+42,42,공무원,PNS
+43,43,기술자,Teknisi
+44,44,국적,Kewarganegaraan
+45,45,농부,Petani
+46,46,누구,Siapa
+47,47,나라,Negara
+48,48,네,Iya
+49,49,네팔,Nepal
+50,50,라오스,Laos
+51,51,동티모,Timor leste
+52,52,목수,Tukang kayu
+53,53,몽골,Mongolia
+54,54,미얀마,Myanmar
+55,55,방글라데시,Bangladesh
+56,56,베트남,Vietnam
+57,57,사람,Orang
+58,58,소방관,Pemadam kebakaran
+59,59,선생님,Guru
+60,60,스리랑카,Srilangka
+61,61,씨,Tuan / Nyonya / Nona
+62,62,아니요,Tidak
+63,63,어느,Yang mana
+64,64,어부,Nelayan
+65,65,우즈베키스탄,Uzbekistan
+66,66,요리사,Koki
+67,67,인도네시아,Indonesia
+68,68,의사,Dokter
+69,69,이름,Nama
+70,70,점원,Pegawai toko
+71,71,저,Saya
+72,72,나,Aku
+73,73,중국,China
+74,74,직업,Pekerjaan
+75,75,태국,Thailand
+76,76,파키스탄,Pakistan
+77,77,캄보디아,Kamboja
+78,78,키르기스스탄,Kirgistan
+79,79,타지키스탄,Tajikistan
+80,80,필리핀,Philipina
+81,81,학생,Siswa
+82,82,한국,Korea selatan
+83,83,회사원,Karyawan perusahaan
+84,84,인사 예절,Etika salam
+85,85,방식,Metode / cara
+86,86,자신,Diri sendiri
+87,87,지위가 높은,Yang tinggi jabatannya
+88,88,나이가 많다,Tua / Usianya Banyak
+89,89,고개를 숙이다,Menundukkan kepala
+90,90,허리를 굽히다,Membungkukkan badan
+91,91,상대방,Pihak lain / Orang lain
+92,92,친한,Akrab
+93,93,공적인,Formal
+94,94,악수,Jabat tangan
+95,95,나이가 훨씬 많다,Usianya yang jauh lebih tua
+96,96,BAB 2 생활용품,Barang kebutuhan sehari-hari
+97,97,가방,Tas
+98,98,가위,Gunting
+99,99,가족사진,Foto keluarga
+100,100,거울,Cermin
+101,101,계산기,Kalkulator
+102,102,그것,Barang itu ( dekat )
+103,103,무엇 / 뭐,Apa
+104,104,물건,Barang
+105,105,베개,Bantal
+106,106,볼펜,Bolpoint
+107,107,빗,sisir
+108,108,사무실,Kantor
+109,109,생활용품,Barang kebutuhan sehari-hari
+110,110,시계,Jam
+111,111,안경,Kacamata
+112,112,여권,Paspor
+113,113,연필,Pensil
+114,114,열쇠,Kunci
+115,115,우산,Payung
+116,116,이불,Selimut
+117,117,가전제품,Barang / Peralatan rumah tangga
+118,118,다양한,Bervariasi
+119,119,대부분,Mayoritas
+120,120,명사,Kata benda
+121,121,문장,Kalimat
+122,122,속성,Sifat
+123,123,이것,Barang ini
+124,124,저것,Barang itu ( jauh )
+125,125,전단지,Pamphlet / Selebaran menu
+126,126,정기적으로,Secara teratur / berkala
+127,127,정보,Informasi
+128,128,제공,Menyediakan
+129,129,지갑,Dompet
+130,130,직거래,Transaksi langsung
+131,131,중고 거래,Transaksi barang bekas
+132,132,플랫폼,Platform / Wadah layanan
+133,133,추천,Rekomendasi
+134,134,칼,Pisau
+135,135,컴퓨터,Komputer
+136,136,컵,Gelas
+137,137,특정,Tertentu
+138,138,할인,Diskon
+139,139,할인 금액,Harga diskon
+140,140,화장품,Kosmetik
+141,141,휴대전화 / 휴대폰,Handphone / HP
+142,142,휴지,Tisu
+143,143,BAB 3   위치와 장소,Tempat dan lokasi
+144,144,거기,Sana
+145,145,겨실,Kelas
+146,146,가구,Mebel
+147,147,기숙사,Asrama
+148,148,냉장고,Kulkas
+149,149,미용실,Salon
+150,150,방,Kamar
+151,151,병원,Rumah sakit
+152,152,부엌,Dapur
+153,153,소파,Sofa
+154,154,세탁기,Mesin cuci
+155,155,슈퍼마켓,Supermarket
+156,156,시장,Pasar
+157,157,식당,Restoran
+158,158,식탁,Meja makan
+159,159,약국,Apotik
+160,160,어디,Mana
+161,161,옷장,Lemari pakaian
+162,162,여기,Sini
+163,163,에어컨,AC
+164,164,우체국,Kantor pos
+165,165,은행,Bank
+166,166,의자,Kursi
+167,167,장소,Tempat
+168,168,저기,Disitu
+169,169,전자레인지,Microwave
+170,170,전자제품,Barang elektronik
+171,171,청소기,Mesin pembersih
+172,172,책상,Meja
+173,173,집,Rumah
+174,174,텔레비전,Televisi
+175,175,커피숍,Kafe
+176,176,침대,Tempat tidur
+177,177,편의점,Swalayan / Mini market
+178,178,화장실,Toilet
+179,179,회사,Perusahaan
+180,180,결합,Penggabungan
+181,181,도시,Kota
+182,182,대한민국,Republik Korea
+183,183,주변,Wilayah / Sekeliling
+184,184,중심,Pusat
+185,185,경제,Ekonomi
+186,186,정치,Politik
+187,187,광역시,Kota metropolitan
+188,188,특별자치시,Kota otonomi khusus
+189,189,특별시,Kota Istimewa
+190,190,발달한,yang berkembang
+191,191,중화학 산업이,Industri petrokimia
+192,192,조선,Pembuatan kapal
+193,193,섬유 산업,Industri tekstil
+194,194,관광객,Wisatawan
+195,195,BAB 4 동작과 사물,Aksi dan Barang / Benda
+196,196,가다,Pergi
+197,197,공부하다,Belajar
+198,198,과자,Snack
+199,199,마시다,Minum
+200,200,먹다,Makan
+201,201,물,Air
+202,202,밥,Nasi
+203,203,보다,Daripada
+204,204,빵,Roti
+205,205,사과,Apel
+206,206,쇼핑하다,Belanja
+207,207,쉬다,Istirahat
+208,208,신문,Koran
+209,209,오다,Datang
+210,210,오늘,Hari ini
+211,211,요리하다,Memasak
+212,212,우유,Susu
+213,213,영화,Film
+214,214,운동하다,Olahraga
+215,215,일하다,Bekerja
+216,216,일상,Keseharian
+217,217,읽다,Membaca
+218,218,자다,Tidur
+219,219,주스,Jus
+220,220,전화하다,Menelpon
+221,221,책,Buku
+222,222,커피,Kopi
+223,223,좌식 문화,Budaya lesehan
+224,224,마루,Ruang keluarga
+225,225,휴식,Istirahat
+226,226,형성하다,Menumbuhkan
+227,227,유대감,Komunikasi
+228,228,소통,Ikatan
+229,229,순환시키,Bersirkulasi
+230,230,BAB 5 날짜와 요일,Hari Dan Tanggal
+231,231,금요일,Hari jumat
+232,232,날짜,Tanggal
+233,233,다음 달,Bulan depan
+234,234,다음 주,Minggu depan
+235,235,내일,Besok
+236,236,내년,Tahun depan
+237,237,매일,Setiap hari
+238,238,목요일,Hari kamis
+239,239,미역국,Sup rumput laut
+240,240,생일,Ulang tahun
+241,241,수요일,Hari rabu
+242,242,숫자,Angka
+243,243,어제,Kemarin
+244,244,언제,Kapan
+245,245,요일,Hari
+246,246,이번 주,Minggu ini
+247,247,이번 달,Bulan ini
+248,248,일요일,Hari minggu
+249,249,작년,Tahun lalu
+250,250,주말,Akhir pekan
+251,251,지난달,Bulan lalu
+252,252,지난주,Minggu lalu
+253,253,케이크,Kue Tart
+254,254,화요일,Hari selasa
+255,255,형용사,Kata sifat
+256,256,상황,Keadaan
+257,257,음력,Kalender bulan
+258,258,양력,Kalender matahari
+259,259,숫자,Angka
+260,260,달력,Kalender
+261,261,기준,Dasar
+262,262,정부 기관,Lembaga pemerintah
+263,263,법정 공휴일,Hari libur resmi
+264,264,국경일,Hari libur nasional
+265,265,기념,Peringatan
+266,266,부처님,Sang Budha
+267,267,예수님,Yesus
+268,268,존중되는,yang dihormati
+269,269,생일,Ulang tahun
+270,270,경우,Situasi
+271,271,진짜,Sungguh
+272,272,문자,Pesan
+273,273,백화점,Department store / Mall
+274,274,BAB 6 하루 일과,Rutinitas sehari-hari
+275,275,휴게실,Tempat istirahat
+276,276,출근하다,Berangkat
+277,277,청소하다,Membersihkan
+278,278,저녁,Petang
+279,279,장을 보다,Belanja (di pasar)
+280,280,이,Gigi
+281,281,일어나다,Bangun tidur
+282,282,일과,Rutinitas
+283,283,씻다,Cuci muka
+284,284,아침,Pagi
+285,285,식사하다,Makan
+286,286,샤워하다,Mandi
+287,287,새벽,Fajar
+288,288,산책하다,Jalan-jalan
+289,289,사다,Membeli
+290,290,보통,Biasanya
+291,291,몇시,Jam berapa
+292,292,낮,Siang
+293,293,공원,Taman
+294,294,어휘,Kosakata
+295,295,관련,Yang berhubungan
+296,296,오전,Pagi (AM)
+297,297,오후,Sore (PM)
+298,298,분,Menit
+299,299,격식적,Secara Formal
+300,300,정중하다,Sopan / hormat
+301,301,사실,Fakta
+302,302,발음,Pengucapan
+303,303,직장인,Pekerja
+304,304,대중교통,Transportasi umum
+305,305,개인 승용차,Mobil pribadi
+306,306,개인 시간,Waktu pribadi
+307,307,하루 일과,Jadwal keseharian
+308,308,취침,Tidur
+309,309,기상,Bangun tidur
+310,310,구내식당,Kantin perusahaan
+311,311,간단한,Yang sederhana
+312,312,회식,Acara makan bersama
+313,313,상사,Atasan
+314,314,야근,Kerja lembur
+315,315,스트레스를 풀다,Mengurai stres
+316,316,건강,Kesehatan
+317,317,BAB 7 계절과 날씨,Musim dan Cuaca
+318,318,가을,Musim gugur
+319,319,겨울,Musim dingin
+320,320,계절,Musim
+321,321,그치다,Berhenti
+322,322,나쁘다,Buruk
+323,323,날씨,Cuaca
+324,324,눈이 오다,Turun salju
+325,325,너무,Sangat
+326,326,덥다,Panas (cuaca)
+327,327,뜨겁다,Panas (benda)
+328,328,따뜻하다,Hangat
+329,329,맑다,Terang / cerah
+330,330,많다,Banyak
+331,331,바람이 불다,Bertiup angina
+332,332,비가 오다,Turun hujan
+333,333,봄,Musim panas
+334,334,쉽다,mudah
+335,335,시원하다,Sejuk
+336,336,어때요?,Bagaimana
+337,337,어렵다,Sulit
+338,338,여름,Musim panas
+339,339,여보세요?,Halo
+340,340,영어,Bahasa inggris
+341,341,정말,Sungguh
+342,342,조금,Sedikit
+343,343,좋다,Bagus
+344,344,차갑다,Dingin (benda)
+345,345,춥다,Dingin (cuaca)
+346,346,흐리다,Mendung
+347,347,사계절,4 musim
+348,348,벚꽃,Bunga sakura
+349,349,영산홍,Bunga azalea
+350,350,계곡,Lembah
+351,351,열대야로,Malam iklim tropis
+352,352,잠을 설치기,Susah tidur
+353,353,여행,Wisata
+354,354,중요한,Penting
+355,355,축제,Festival
+356,356,영하,Dibawah 0 derajat
+357,357,이상,Lebih
+358,358,BAB 8 가족 과 친구,Keluarga dan Teman
+359,359,가족,Keluarga
+360,360,계시다,Ada (bentuk hormat)
+361,361,귀엽다,Imut / Lucu
+362,362,길다,Panjang
+363,363,나이,Usia / Umur
+364,364,남동생,Adik laki-laki
+365,365,남매,Saudara laki-laki
+366,366,남자,Laki-laki
+367,367,남편,Suami
+368,368,누나,Kakak perempuan (dari laki-laki)
+369,369,댁,Rumah
+370,370,마당,Halaman
+371,371,드시다,Makan (bentuk hormat)
+372,372,딸,Anak perempuan
+373,373,말씀하시다,Berbicara (bentuk hormat)
+374,374,말하다,Berbicara
+375,375,머리,Kepala
+376,376,멋있다,Keren
+377,377,비빔밥,Nasi campur
+378,378,부모님,Orang tua
+379,379,부지런하다,Rajin
+380,380,성격이 급하다,Tidak sabaran / terburu-buru
+381,381,성격,Watak
+382,382,아프다,Sakit
+383,383,아버지,Ayah
+384,384,아빠,Ayah
+385,385,아내,Istri
+386,386,아들,Anak laki-laki
+387,387,얌전하다,Pendiam / Sopan
+388,388,어머니,Ibu
+389,389,엄마,Ibu
+390,390,언니,Kakak perempuan (dari perempuan)
+391,391,여동생,Adik perempuan
+392,392,여자,Perempuan
+393,393,연세,Usia / Umur (bentuk hormat)
+394,394,오빠,Kakak laki-laki (dari perempuan)
+395,395,예쁘다,Cantik
+396,396,외모,Penampilan
+397,397,자매,Saudara perempuan
+398,398,있다,Ada
+399,399,잘생기다,Ganteng
+400,400,주무시다,Tidur (bentuk hormat)
+401,401,재미있다,Menyenangkan
+402,402,창문,Jendela
+403,403,착하다,Baik hati
+404,404,총각,Bujangan / lajang
+405,405,편찮으시다,Sakit (bentuk hormat)
+406,406,키가 크다,Tinggi
+407,407,피자,Pizza
+408,408,활발하다,Bersemangat / aktif
+409,409,형제,Saudara laki-laki
+410,410,형,Kakak laki-laki (dari laki-laki)
+411,411,할머니,Nenek
+412,412,할아버지,Kakek
+413,413,높임말,Bahasa halus / hormat
+414,414,반말,Bahasa akrab
+415,415,나이가 적은,Usia muda
+416,416,의미,Maksud / arti
+417,417,지위가 낮은,Rendah jabatan
+418,418,불편하다,Tidak nyaman
+419,419,한편,Disisi lain / disatu sisi
+420,420,가까운,Yang dekat
+421,421,관계,Hubungan
+422,422,중요한,yang penting
+423,423,친밀감,Keakraban
+424,424,역할,Peran / fungsi
+425,425,BAB 9 음식 주문,Pemesanan Makanan
+426,426,개,Satuan (barang)
+427,427,권,Satuan (jilid) buku
+428,428,그릇,Mangkok
+429,429,공기,Udara
+430,430,공깃밥,Semangkuk nasi putih
+431,431,김치찌개,Lodeh kimchi
+432,432,김밥,Nasi gulung rumput laut
+433,433,돈가스,Nugget babi
+434,434,된장찌개,Lodeh tauco
+435,435,라면,Mie instan
+436,436,마리,Satuan ekor (hewan)
+437,437,맛있다,Enak
+438,438,맛없다,Tidak enak
+439,439,명,Satuan (orang)
+440,440,분,Orang (bentuk hormat)
+441,441,분류사,Penyortir
+442,442,불고기,Daging bakar
+443,443,병,Satuan (botol)
+444,444,싫어하다,Tidak mau / tidak suka
+445,445,영수증,Kwitansi
+446,446,우동,mie udon
+447,447,음식,Makanan
+448,448,인분,Satuan (porsi)
+449,449,자장면,Mie saos kacang hitam
+450,450,자루,Satuan batang (pohon/peralatan tangan)
+451,451,장,Satuan lembar (kertas)
+452,452,좋아하다,Suka
+453,453,접시,Piring
+454,454,좀,Sedikit
+455,455,잔,Satuan (gelas/cangkir)
+456,456,치킨,Ayam
+457,457,탕수육,Daging babi asam manis
+458,458,하늘색,Warna biru langit
+459,459,연결하다,Menghubungkan
+460,460,대상,Sasaran / target
+461,461,구성된,yang terdiri
+462,462,주식으로,sebagai makanan utama
+463,463,종류,Jenis
+464,464,곁들,pelengkap (lauk)
+465,465,제공된,Yang tersedia
+466,466,소중히,Dengan hati-hati
+467,467,최근,Akhir-akhir ini
+468,468,덕분,Berkat
+469,469,BAB 10 물건 구입,Pembelian Barang
+470,470,값을 깎다,Memotong harga
+471,471,값,Harga
+472,472,가볍다,Ringan
+473,473,계산하다,Menghitung
+474,474,과일,Buah
+475,475,교환하다,Menukar (barang)
+476,476,넣다,Memasukkan
+477,477,닫다,Menutup
+478,478,동전,Uang koin
+479,479,만,Hanya
+480,480,많이,Banyak
+481,481,딸기,Strawberry
+482,482,들다,Membawa
+483,483,바지,Celana panjang
+484,484,바꾸다,Menukar
+485,485,무겁다,Berat
+486,486,물품,Produk / komoditi
+487,487,비싸다,Mahal
+488,488,상자,Kardus
+489,489,상태,Kondisi
+490,490,상품권,Voucer / kupon
+491,491,상하다,Rusak / basi
+492,492,수박,Semangka
+493,493,신발,Sepatu
+494,494,싱싱하다,Segar
+495,495,생선,Ikan laut
+496,496,싸다,Murah
+497,497,어지럽다,Pusing
+498,498,오렌지,Buah jeruk
+499,499,작다,Kecil
+500,500,잘,Dengan baik
+501,501,종이 가방,Paperbag / tas bahan kertas
+502,502,적다,Sedikit
+503,503,지폐,Uang kertas
+504,504,크다,Besar
+505,505,환불하다,Pengembalian
+506,506,화폐,Mata uang
+507,507,현금,Uang tunai
+508,508,함께,Bersama
+509,509,자동화된,Otomatis
+510,510,운영됩,Pengelolaan
+511,511,방식으로,Dengan cara
+512,512,결제,Pembayaran
+513,513,무인,Tidak ada orang
+514,514,자유롭다,Bebas
+515,515,언제든지,Kapan pun
+516,516,BAB 11 집안일,Pekerjaan Rumah Tangga
+517,517,갑자기,Tiba-tiba
+518,518,같이,Bersama
+519,519,걸레,Lap kain
+520,520,그래서,Jadi
+521,521,그러면,Kalau begitu
+522,522,다리미,Setrika
+523,523,냄비,Panci
+524,524,도와주다,Membantu
+525,525,돌리다,Memutar
+526,526,따로,Secara terpisah
+527,527,만들다,Membuat
+528,528,먼지,Debu
+529,529,먼지를 털다,Membersihkan debu
+530,530,바닥,Lantai
+531,531,밥을하다 / 짓다,Memasak nasi
+532,532,밥솥,Penanak nasi
+533,533,버리다,Membuang
+534,534,빨래를 널다,Menjemur cucian
+535,535,빨래를 걷다,Mengangkat jemuran
+536,536,빨래하다,Mencuci pakaian
+537,537,빗자루,Sapu
+538,574,기차역,Stasiun kereta
+539,575,기차,Kereta
+540,576,늦다,Terlambat
+541,577,내리다,Turun
+542,578,마을버스,Bus pedesaan
+543,579,멀다,Jauh
+544,580,미안하다,Maaf
+545,581,배,Kapal laut
+546,582,번,Nomor
+547,583,버스 터미널,Terminal bus
+548,584,버스 정류장,Halte bus
+549,585,비행기,Pesawat
+550,586,시내버스,Bus kota
+551,587,시외버스,Bus antar kota
+552,588,어떻게,Bagaimana (cara)
+553,589,얼마나,Berapa (seberapa)
+554,590,오토바이,Motor
+555,591,이동하다,Perpindahan
+556,592,자전거,Sepeda
+557,593,지나다,Lewat
+558,594,지하철,Kereta Bawah Tanah
+559,595,지하철역,Stasiun Kereta bawah tanah
+560,596,쯤,Sekitar
+561,597,차가 막히다,Macet
+562,598,출근 시간,Jam berangkat kerja
+563,599,출퇴근 시간,jam berangkat pulang kerja
+564,600,트럭,Truk
+565,601,택시,Taksi
+566,602,퇴근 시간,Jam pulang kerja
+567,603,타고 가다,Pergi naik
+568,604,타고 오다,Datang naik
+569,605,타다,Naik
+570,606,환승하다,Transit
+571,607,화폐,Mata uang
+572,608,BAB 13 주말 활동,Aktivitas akhir pekan
+573,609,고향,Kampung halaman
+574,610,기쁘다,Bahagia
+575,611,기분,Perasaan
+576,612,기도하다,Berdoa
+577,613,교회,Gereja
+578,614,노래방,Tempat karaoke
+579,615,낮잠,Tidur siang
+580,616,노래를 부르다,Menyanyi
+581,617,돼지고기,Daging babi
+582,618,모임,Perkumpulan
+583,619,바쁘다,Sibuk
+584,620,방문하다,Berkunjung
+585,621,생활,Kehidupan
+586,622,술,miras / alkkohol
+587,623,슬프다,Sedih
+588,624,심심하다,Bosan / jemu
+589,625,약속,Janji
+590,626,예불을 드리다,Sembahyang
+591,627,운동장,Tempat olahraga
+592,628,재미없다,Tidak menyenangkan
+593,629,종교,Agama
+594,630,절,Kuil
+595,631,즐겁다,Menikmati
+596,632,탁구장,Lapangan tenis
+597,633,탁구를 치다,Bermain tenis
+598,634,피곤하다,Lelah
+599,635,피시방,Warnet
+600,636,한가하다,Senggang
+601,637,활동하다,Beraktifitas
+602,638,휴식,Istirahat
+603,639,헬스를 하다,Melakukan kebugaran
+604,640,헬스장,Tempat gym
+605,641,신자,Penganut / pemeluk
+606,642,신앙생활,Aktivitas kepercayaan
+607,643,지정되다,Menentukan
+608,644,탄생일,Hari kelahiran
+609,645,BAB 14 길 찾기,Mencari Jalan (alamat)
+610,646,건너가다,Pergi menyebrang
+611,647,건너편,Seberang
+612,648,건물,Gedung
+613,649,그쪽,Arah situ
+614,650,근처,Sekitar
+615,651,내려가다,Pergi turun
+616,652,내려오다,Datang turun
+617,653,마트,Market
+618,654,뒤,Belakang
+619,655,들어가다,Pergi masuk
+620,656,들어오다,Datang masuk
+621,657,밑,Bawah
+622,658,밖,Luar
+623,659,맞은편,Seberang
+624,660,방향,Arah
+625,661,사거리,Perempatan
+626,662,앞,Depan
+627,663,안,Dalam
+628,664,아래,Bawah
+629,665,오른쪽,Arah kanan
+630,666,옥상,Atap
+631,667,올라가다,Pergi naik
+632,668,올라오다,Datang naik
+633,669,왼쪽,Arah kiri
+634,670,옆,Samping
+635,671,이쪽,Arah sini
+636,672,육교,Jembatan penyebrangan
+637,673,위치,Lokasi
+638,674,위,Atas
+639,675,저쪽,Arah sana
+640,676,지하,Bawah tanah
+641,677,쪽,Arah
+642,678,층,Lantai
+643,679,횡단보도,Zebracross
+644,680,한국산업인력공단,HRD Korea
+645,681,도,Provinsi
+646,682,시,Kotamadya
+647,683,건물 번호,Nomor gedung
+648,684,도로명,Nama jalan
+649,685,구,Kecamatan
+650,686,군,Kabupaten
+651,687,BAB 15 옷차림,Berpakaian
+652,688,갈색,Coklat
+653,689,까만색,Hitam
+654,690,구두,Sepatu kulit
+655,691,노란색,Kuning
+656,692,남색,Biru tua
+657,693,반바지,Celana pendek
+658,694,모자,Topi
+659,695,밝다,Cerah / terang
+660,696,보라색,Ungu
+661,697,빨간색,Merah
+662,698,분홍색,Pink
+663,699,색깔,Warna
+664,700,선글라스,Kacamata hitam
+665,701,쇼핑몰,Barang belanjaan
+666,702,슬리퍼,Sandal
+667,703,신다,"Memakai (sepatu, sandal, kaos kaki)"
+668,704,쓰다,"Memakai (topi, helm, masker)"
+669,705,양말,Kaos kaki
+670,706,어둡다,Gelap
+671,707,운동화,Sepatu olahraga
+672,708,원피스,Gaun terusan
+673,709,입다,Memakai (pakaian)
+674,710,잠바,Jaket
+675,711,장화,Sepatu boot
+676,712,청바지,Celana Jeans
+677,713,초록색 / 녹색,Warna hijau
+678,714,파란색,Warna biru
+679,715,티셔츠,Kaos
+680,716,회색,Abu-abu
+681,717,하얀색,Putih
+682,718,하나,Satu
+683,719,전통 의상,Pakaian adat
+684,720,자연스러운,Sewajarnya
+685,721,노력,Usaha / upaya
+686,722,세계적으로,Secara global
+687,723,신부,Pengantin perempuan
+688,724,BAB 16 집 구하기,Mencari rumah
+689,725,계약하다,Membuat kontrak
+690,726,계약금을 내다,Membayar uang kontrak
+691,727,고시원,Tempat kos
+692,728,구하다,Mencari
+693,729,끝나다,Selesai
+694,730,깨끗하다,Bersih
+695,731,더럽다,Kotor
+696,732,넓다,Luas
+697,733,빌라,Villa
+698,734,불편하다,Tidak nyaman
+699,735,부탁,Bantuan
+700,736,부족하다,Kurang
+701,737,부동산,Agen property
+702,738,보증금,Uang jaminan
+703,739,시끄럽다,Berisik
+704,740,아파트,Apartemen
+705,741,알아보다,Mencari tahu
+706,742,오피스텔,Office hotel / Kantor ruko
+707,743,원룸,Satu kamar
+708,744,월세,Sewa bulanan
+709,745,이사하다,Pindah rumah
+710,746,주거 형태,Keadaan rumah
+711,747,좁다,Sempit
+712,748,조용하다,Tenang
+713,749,주거 환경,Lingkungan rumah
+714,750,주택,Perumahan
+715,751,전망,Pemandangan
+716,752,집을 보다,Melihat rumah
+717,753,편하다,Nyaman
+718,754,편의 시설,Fasilitas nyaman
+719,755,편리하다,Nyaman
+720,756,각급,Tiap tingkatan
+721,757,갖추어,Secara lengkap
+722,758,전체,Semua
+723,759,연립주택,Rumah susun
+724,760,인기,Popular / terkenal
+725,761,구비되다,Dilengkapi
+726,762,필수적인,Wajib/penting
+727,763,침실,Kamar tidur
+728,764,조금씩,Sedikit
+729,765,환경,Lingkungan
+730,766,BAB 17 휴가,Cuti
+731,767,강,Sungai
+732,768,경치가 좋다,Pemandangan bagus
+733,769,계획하다,Merencanakan
+734,770,관람하다,Menonton
+735,771,구경하다,Melihat-lihat
+736,772,꼭,Pasti
+737,773,다음,Berikut
+738,774,놀이공원,Taman bermain
+739,775,도착하다,Tiba
+740,776,등산하다,Naik gunung
+741,777,바다,Laut
+742,778,민박,Penginapan / pemondokan (rumah pribadi)
+743,779,민속촌,Perkampungan adat
+744,780,산,Gunung
+745,781,숙소,Akomodasi / tempat bermalam
+746,782,섬,Pulau
+747,783,아주,Sangat
+748,784,아름답다,Indah
+749,785,온천,Pemandian air panas
+750,786,여행하다,Berwisata
+751,787,여행지,Lokasi wisata
+752,788,예약하다,Memesan / Reservasi
+753,790,유스 호스텔,Penginapan (pemuda)
+754,791,유명하다,Terkenal
+755,792,이번,Kali ini
+756,793,짐,Barang
+757,794,출발하다,Berangkat
+758,795,콘도,Kondominium
+759,796,풀다,Membongkar
+760,797,표,Tiket
+761,798,펜션,Villa
+762,799,호텔,Hotel
+763,800,해수욕장,Pantai pasir
+764,801,문화유산,Warisan budaya
+765,802,풍부한,Yang melimpah / banyak
+766,803,양식,Gaya barat
+767,804,정원으로,Secara jumlah
+768,805,보존되다,Dilestarikan / dipelihara
+769,806,영국,Inggris
+770,807,BAB 18 취미,Hobby
+771,808,경기하다,Bertanding
+772,809,골프,Golf
+773,810,그리다,Menggambar
+774,811,그림,Gambar
+775,812,기타,Lain-lain
+776,813,낚시하다,Memancing
+777,814,농구하다,Bermain basket
+778,815,노래하다,Bernyanyi
+779,816,독서하다,Membaca buku
+780,817,동호회,Klub / Kelompok
+781,818,듣다,Mendengarkan
+782,819,배드민턴,Badminton
+783,820,배우다,Belajar
+784,821,사진,Foto
+785,822,볼링,Bowling
+786,823,살다,Tinggal
+787,824,수영하다,Berenang
+788,825,스키,Ski
+789,826,스케이트,Skate
+790,827,야구하다,Baseball
+791,828,실외,Luar ruangan
+792,829,외국어,Bahasa asing
+793,830,인터넷,Internet
+794,831,음악,Musik
+795,832,자주,Sering
+796,833,조깅하다,Jogging
+797,834,주로,Biasanya
+798,835,취미,Hobi
+799,836,추다,Menari
+800,837,찍다,Memotret
+801,838,치다,Bermain
+802,839,테니스,Tenis
+803,840,콘서트,Konser
+804,841,피아노,Piano
+805,842,힘들다,Capek / sulit / melelahkan
+806,843,여가,Waktu luang
+807,844,확대되면서,Berkembang / Meluas
+808,845,유연근무제,Sistem kerja fleksibel
+809,846,문화체육관광부,"Kementrian kebudayaan, olahraga, dan pariwisata"
+810,847,평균,Rata-rata
+811,848,만족하다,Puas
+812,849,분위기,Suasana
+813,850,균형,Keseimbangan
+814,851,개설되다,Didirikan / dibuka
+815,852,출간되다,Diterbitkan
+816,853,BAB 19 요리,Masakan
+817,854,간장,Kecap asin
+818,855,계란,Telur
+819,856,고기,Daging
+820,857,고소하다,Gurih
+821,858,교실,Kelas
+822,859,굽다,Memanggang
+823,860,깎다,Memotong
+824,861,끓이다,Merebus (dengan bumbu)
+825,862,다니다,Pergi / Pulang pergi / hilir mudik / beraktifitas
+826,863,달다,Manis
+827,864,닭고기,Daging ayam
+828,865,당근,Wortel
+829,866,데우다,Menghangatkan
+830,867,레몬,Lemon
+831,868,만들다,Membuat
+832,869,떡볶이,Tteokbokki
+833,870,맛이 좋다,Rasanya enak
+834,871,맛,Rasa
+835,872,만두,Dumpling / pangsit
+836,873,맵다,Pedas
+837,874,볶다,Menumis
+838,875,삶다,Merebus
+839,876,생선,Ikan
+840,877,시다,Masam
+841,878,설탕,Gula
+842,879,소고기,Daging sapi
+843,880,소금,Garam
+844,881,싱겁다,Hambar
+845,882,떡,Kue beras
+846,883,양념,Bumbu
+847,884,양파,Bawang bombai
+848,885,썰다,Mengiris
+849,886,쓰다,Pahit
+850,887,요리법,Cara masak (praktis / sederhana)
+851,888,재료,Bahan
+852,889,조리법,Cara masak (profesional)
+853,890,채소,Sayuran
+854,891,찌다,Mengukus
+855,892,짜다,Asin
+856,893,튀기다,Menggoreng
+857,894,파,Daun bawang
+858,895,한번,Sekali
+859,896,후추,Lada
+860,897,기억,Mengingat
+861,898,원래,Dahulu / awal
+862,899,습한,Lembab
+863,900,인삼,Ginseng
+864,901,찹쌀,Beras ketan
+865,902,밤,Chestnut
+866,903,땀,Keringat
+867,904,둘러앉아,Duduk mengelilingi
+868,905,덕담,Pemberkatan / wejangan
+869,906,BAB 20 인터넷과 스마트폰,Internet dan smartphone
+870,907,검색하다,Mencari / browsing
+871,908,가르치다,Mengajar
+872,909,글,Tulisan
+873,910,다운로드하다,Mengunduh
+874,911,댓글을 달다,Memberi like komentar
+875,912,내려받다,Mengunduh
+876,913,로그아웃,Keluar
+877,914,로그인,Masuk
+878,915,맛집,Restoran terkenal bagus
+879,916,메시지,Pesan
+880,917,모바일 메신저,Pesan seluler
+881,918,보내다,Mengirim
+882,919,블로그,Blog
+883,920,비밀번호,Password
+884,921,보이다,Terlihat / dapat dilihat
+885,922,스마트폰,Smartphone
+886,923,아이디,ID
+887,924,애플리케이션 ( 앱 ),Aplikasi (APP)
+888,925,쓰다,Menulis
+889,926,업로드하다,Upload / mengunggah
+890,927,에스엔에스 (SNS),Media sosial (Social Networking Service)
+891,928,와이파이,WIFI
+892,929,올리다,Menaikkan / Mengunggah
+893,930,이메일,Email
+894,931,이모티콘,Emotikon
+895,932,이야기하다,Bercerita
+896,933,인터넷 카페,Internet kafe
+897,934,웹사이트,Website
+898,935,저장하다,Menyimpan
+899,936,채팅하다,Chatting
+900,937,홈페이지,Homepage
+901,938,화상 채팅,Video call
+902,939,확인하다,Memeriksa
+903,940,회원 가입,Registrasi akun
+904,941,회원 탈퇴,Menghapus akun
+905,942,간편하다,Mudah / praktis
+906,943,분식,Makanan ringan
+907,944,양식,Makanan barat
+908,945,중식,Makanan china
+909,946,BAB 21 병원,Rumah Sakit
+910,947,감기에 걸리다,Terserang flu
+911,948,가슴,Dada
+912,949,기다리다,Menunggu
+913,950,귀,Telinga
+914,951,다치다,Terluka
+915,952,눈병이 나다,Terkena infeksi mata
+916,953,눈,Mata
+917,954,머리가 아프다,Sakit kepala
+918,955,몸,Tubuh
+919,956,발,Kaki
+920,957,발목,Pergelangan kaki
+921,958,배,Perut
+922,959,배가 아프다,Sakit perut
+923,960,무릎,Lutut
+924,961,보호자,Wali
+925,962,부르다,Memanggil
+926,963,손,Tangan
+927,964,손가락,Jari tangan
+928,965,손목,Pergelangan tangan
+929,966,수술하다,Operasi
+930,967,수술을 받다,Menjalani operasi
+931,968,약,Obat
+932,969,신분증,Kartu identitas
+933,970,신체,Bagian tubuh
+934,971,어깨,Bahu
+935,972,얼굴,Wajah
+936,973,엑스레이를 찍다,Melakukan rontgen
+937,974,운전하다,Mengemudi
+938,975,입,Mulut
+939,976,읽다,Membaca
+940,977,주사를 맞다,Mendapatkan suntikan
+941,978,주사를 놓다,Memberikan suntikan
+942,979,저희,Kami
+943,980,전화번호,Nomor HP
+944,981,증상,Gejala
+945,982,진료하다,Pemeriksaan
+946,983,진료를 받다,Menerima pemeriksaan
+947,984,진료실,Ruang pemeriksaan
+948,985,처방하다,Meresepkan
+949,986,처방을 받다,Menerima resep
+950,987,처방전,Resep obat
+951,988,처음,Pertama kali
+952,989,차다,Dingin
+953,990,체온을 재다,Mengukur suhu tubuh
+954,991,치료하다,Perawatan
+955,992,치료를 받다,Menerima perawatan
+956,993,코,Hidung
+957,994,팔,Lengan
+958,995,환자,Pasien
+959,996,허리,Pinggang
+960,997,의료기관,Lembaga medis
+961,998,대부분,Mayoritas
+962,999,내과,Klinik penyakit dalam
+963,1000,정형외과,Klinik tulang
+964,1001,치과,Klinik gigi
+965,1002,안과,Klinik mata
+966,1003,소아청소년과,Klinik Pediatric (kesehatan anak)
+967,1004,한의원,Klinik pengobatan tradisional Korea
+968,1005,성형외과,Klinik bedah plastik
+969,1006,산부인과,Klinik kandungan
+970,1007,피부과,Klinik kulit
+971,1008,이비인후과,Klinik THT
+972,1009,운전면허증,SIM
+973,1010,주민등록증,KTP
+974,1011,건강보험증,Kartu asuransi kesehatan
+975,1012,BAB 22 약국,Apotek
+976,1013,마스크,Masker
+977,1014,비상약,Obat darurat
+978,1015,붕대를 감다,Membalut perban
+979,1016,붕대,Perban
+980,1017,뼈가 부러지다,Patah tulang
+981,1018,보관하다,Menyimpan
+982,1019,소독약,Antiseptik
+983,1020,소화가 안 되다,Gangguan pencernaan
+984,1021,손이 베이다,Tangan teriris
+985,1022,설사하다,Diare
+986,1023,소독하다,Mensterilkan
+987,1024,알약,Tablet
+988,1025,약을 먹다,Makan obat
+989,1026,약을 뿌리다,Menyemprotkan obat
+990,1027,연고를 바르다,Mengoleskan salep
+991,1028,연고,Salep
+992,1029,영양제,Suplemen
+993,1030,열이 나다 / 있다,Demam
+994,1031,의약품,Obat
+995,1032,찜질하다,Mengompres
+996,1033,치료법,Cara perawatan
+997,1034,토하다,Muntah
+998,1035,파스,Koyo
+999,1036,파스를 붙이다,Menempelkan koyo
+1000,1037,콧물이 나다,Keluar ingus
+1001,1038,약사,Apoteker
+1002,1039,직접,Langsung
+1003,1040,주의사항,Peringatan
+1004,1041,복용법,Cara pakai
+1005,1042,약의 명칭,Nama obat
+1006,1043,안전상비의 약품,Obat yang aman
+1007,1044,해열제,Obat demam
+1008,1045,진통제,Pereda nyeri
+1009,1046,통증이,Sakit kepala
+1010,1047,감기약,Obat flu
+1011,1048,과식,Makan berlebih
+1012,1049,지사제,Anti diare
+1013,1050,멈추게,Menghentikan
+1014,1051,근육이,Otot
+1015,1052,관절이,Sendi
+1016,1053,소화제,Obat pencernaan
+1017,1054,BAB 23 우체국,Kantor pos
+1018,1055,국제 특급 우편,Layanan surat kilat (EMS)
+1019,1056,국내 소포,Paket domestik
+1020,1057,국제 우편,Paket internasional
+1021,1058,나흘,Empat hari
+1022,1059,등기 소포,Paket terdaftar
+1023,1060,등기 우편,Surat terdaftar
+1024,1061,받다,Menerima
+1025,1062,받는 사람 / 수취인,Penerima
+1026,1063,무게를 재다,Menimbang berat
+1027,1064,부치다,Mengirim
+1028,1065,배송하다,Mengantarkan / menyampaikan
+1029,1066,보내는 사람 / 발신인,Orang yang mengirim
+1030,1067,사흘,Tiga hari
+1031,1068,소포,Paketan
+1032,1069,선박 우편,Pos via kapal
+1033,1070,우체통,Kotak surat
+1034,1071,요금을 내다,Membayar biaya
+1035,1072,요금,Biaya
+1036,1073,우편,Pos
+1037,1074,우편물,Benda pos
+1038,1075,우편번호,Kode pos
+1039,1076,우표,Paket
+1040,1077,일반 소포,Paket biasa
+1041,1078,익일 특급,Pengiriman hari berikutnya
+1042,1079,이틀,Dua hari
+1043,1080,일반 우편,Surat biasa
+1044,1081,주소,Alamat
+1045,1082,저울,Timbangan
+1046,1083,저울에 올리다,Letakkan diatas timbangan
+1047,1084,택배,Kurir
+1048,1085,편지 봉투,Amplop surat
+1049,1086,킬로그램 (kg),Kg
+1050,1087,하루,Sehari
+1051,1088,항공 우편,Pos via pesawat
+1052,1089,문서,Dokumen
+1053,1090,조회할,Memeriksa
+1054,1091,폭발물,Bahan peledak
+1055,1092,인화성 물질,Bahan mudah terbakar
+1056,1093,물론 동식물,Benda hidup
+1057,1094,화장품,Kosmetik
+1058,1095,적금,Tabungan / simpanan
+1059,1096,BAB 24 은행,Bank
+1060,1097,거래 날짜,Tanggal transaksi
+1061,1098,거래 내역,Riwayat transaksi
+1062,1099,거주지,Tempat tinggal
+1063,1100,계좌,Rekening
+1064,1101,계좌 번호,Nomor rekening
+1065,1102,계좌 이체,Pemindahan rekening
+1066,1103,도장,Stempel
+1067,1104,돈을 넣다,Memasukkan uang
+1068,1105,돈을 보내다,Mengirim uang
+1069,1106,돈을 찾다,Mengambil uang
+1070,1107,모바일 뱅킹,M-banking
+1071,1108,버튼을 누르다,Menekan tombol
+1072,1109,번호표를 뽑다,Mengambil nomor antrian
+1073,1110,서류,Dokumen
+1074,1111,서명하다,Tanda tangan
+1075,1112,송금하다,Transfer
+1076,1113,신청하다,Mendaftar
+1077,1114,신청서,Formulir pendaftaran
+1078,1115,외국인 등록증,KTP orang asing
+1079,1116,예금하다,Menabung
+1080,1117,예금주,Pemilik rekening
+1081,1118,입금하다,Menyimpan / Menyetor / menabung
+1082,1119,잔액 조회,Cek saldo
+1083,1120,준비하다,Mempersiapkan
+1084,1121,체크 카드,Kartu debit
+1085,1122,창구,Loket
+1086,1123,증명하다,Bukti
+1087,1124,출금하다,Menarik uang
+1088,1125,통장,Buku tabungan
+1089,1126,통장 정리,Pengaturan buku tabungan
+1090,1127,환율이 내리다,Mengalami penurunan
+1091,1128,환율이 오르다,Mengalami kenaikan
+1092,1129,환전하다,Menukarkan uang
+1093,1130,현금인출기,Mesin ATM
+1094,1131,가까운,Yang dekat
+1095,1132,바쁜,Yang sibuk
+1096,1133,주말,Akhir pekan
+1097,1134,영업,Buka / beroperasi
+1098,1135,평일,Hari kerja
+1099,1136,BAB 25 외국인 근로자 지원 기관,Lembaga Bantuan Tenaga Kerja Asing
+1100,1137,갖다주다,Membawa
+1101,1138,걱정하다,Khawatir
+1102,1139,고급,Kelas mahir
+1103,1140,기간,Masa/periode
+1104,1141,교육하다,Pendidikan
+1105,1142,다,Semua
+1106,1143,대상,Sasaran
+1107,1144,내용,Isi
+1108,1145,1등,Juara 1
+1109,1146,맞다,Benar
+1110,1147,모든,Semua
+1111,1148,모집하다,Perekrutan
+1112,1149,방법,Cara
+1113,1150,방문 접수,Pendaftaran langsung
+1114,1151,무료,Gratis
+1115,1152,문의하다,Bertanya
+1116,1153,문화,Budaya
+1117,1154,법률,Hukum
+1118,1155,분야,Kategori
+1119,1156,상담하다,Konsultasi
+1120,1157,서비스,Layanan
+1121,1158,수업,Pembelajaran
+1122,1159,시상내용,Detail harga
+1123,1160,안전,Keamanan
+1124,1161,여러,Berbagai
+1125,1162,외국인근로자지원센터,Pusat pendukung pekerja asing
+1126,1163,인기상,Popularitas
+1127,1164,자원 봉사,Sukarelawan
+1128,1165,준비반,Persiapan
+1129,1166,중급,Kelas menengah
+1130,1167,증정하다,Memberikan
+1131,1168,참여하다,Menghadiri
+1132,1169,참가자,Peserta
+1133,1170,참가대상,Kelayakan partisipasi
+1134,1171,초급,Kelas pemula
+1135,1172,통역하다,Penerjemah
+1136,1173,토픽 (TOPIK),Test Of Proficiency In Korean
+1137,1174,프로그램,Program
+1138,1175,한국어,Bahasa korea
+1139,1176,훈련하다,Pelatihan
+1140,1177,행사,Acara / event
+1141,1178,회화,Percakapan
+1142,1179,사업주,Majikan
+1143,1180,입국,Masuk negara
+1144,1181,고용노동부,Depnaker
+1145,1182,꾸준히,Tetap
+1146,1183,구축,Membangun
+1147,1184,포함,Termasuk
+1148,1185,상담 시간,Waktu konsultasi
+1149,1186,전화번호,Nomor telepon
+1150,1187,누르,Menekan
+1151,1188,국가별,Kode negara
+1152,1189,BAB 26 한국의 주거 문화와 음식 문화,Budaya rumah Korea dan makanan Korea
+1153,1190,김,Rumput laut
+1154,1191,깍두기,Kimchi lobak
+1155,1192,국,Sup
+1156,1193,난방,Pemanas
+1157,1194,날,Hari
+1158,1195,담,Dinding keliling
+1159,1196,답답하다,Merasa tertekan
+1160,1197,대문,Gerbang utama
+1161,1198,대접하다,Melayani
+1162,1199,마루,Ruang lantai
+1163,1200,미역국,Sup rumput laut
+1164,1201,동지,Titik balik matahari musim dingin
+1165,1202,둘러보다,Lihat sekeliling
+1166,1203,마음에 들다,Menyukai
+1167,1204,반찬,Lauk pauk
+1168,1205,방바닥,Lantai
+1169,1206,방문,Pintu kamar
+1170,1207,베란다,Beranda
+1171,1208,복날,Hari panas
+1172,1209,생선구이,Ikan panggang
+1173,1210,생선회,Ikan mentah
+1174,1211,숟가락,Sendok
+1175,1212,예전,Masa lalu / waktu dulu
+1176,1213,오곡밥,Nasi 5 biji-bijian
+1177,1214,온돌,Pemanas lantai
+1178,1215,젓가락,Sumpit
+1179,1216,정월대보름,Bulan pernama bulan pertama
+1180,1217,주거,Perumahan
+1181,1218,죽,Bubur
+1182,1219,지붕,Atap
+1183,1220,치킨,Ayam goreng
+1184,1221,특별하다,Khusus
+1185,1222,포크,Garpu
+1186,1223,팥죽,Bubur kacang merah
+1187,1224,한식,Makanan Korea
+1188,1225,한옥,Rumah tradisional Korea
+1189,1226,현관,Pendopo
+1190,1227,현관문,Pintu masuk
+1191,1228,지켜야 하다,Harus mentaati
+1192,1229,아랫사람,Orang muda
+1193,1230,어른,Orang tua
+1194,1231,국그릇,Mangkuk sup
+1195,1232,밥그릇,Mangkuk nasi
+1196,1233,나이프,Pisau
+1197,1234,소리를 크게내다,Bersuara keras
+1198,1235,BAB 27 한국의 기념일,Hari peringatan di Korea
+1199,1236,감사하다,Terima kasih
+1200,1237,강강술래,Tarian lingkaran tradisional
+1201,1238,개천절,Hari yayasan nasional
+1202,1239,광복절,Hari kemerdekaan
+1203,1240,기념하다,Memperingati
+1204,1241,기념일,Hari peringatan
+1205,1242,국경일,Hari libur nasional
+1206,1243,국기,Bendera negara
+1207,1244,꽃,Bunga
+1208,1245,놀이,Permainan
+1209,1246,달다,Memasang / mengibarkan
+1210,1247,덕담,Berkat
+1211,1248,독립하다,Kemerdekaan
+1212,1249,돌,Ulang tahun pertama
+1213,1250,돌잔치,Pesta ultah pertama
+1214,1251,동료,Rekan kerja
+1215,1252,떡국,Sup kue berkuah
+1216,1253,드리다,Memberi (bentuk hormat)
+1217,1254,마음을 전하다,Menyampaikan perasaan
+1218,1255,모이다,Berkumpul
+1219,1256,보름달,Bulan purnama
+1220,1257,소원,Harapan
+1221,1258,소원을 빌다,Mengajukan permintaan
+1222,1259,송편,Kue beras isi gula merah
+1223,1260,삼일절,Hari gerakan kemerdekaan
+1224,1261,설날,Hari raya imlek
+1225,1262,성묘하다,Ziarah makam
+1226,1263,세배하다,Salam tahun baru
+1227,1264,세뱃돈,Angpao
+1228,1265,어버이날,Hari orang tua
+1229,1266,어린이날,Hari anak
+1230,1267,어리다,Muda
+1231,1268,아기,Bayi
+1232,1269,연날리기,Bermain layinglayang
+1233,1270,연휴,Libur
+1234,1271,윷놀이,Permainan tongkat
+1235,1272,이날,Hari ini
+1236,1273,잔치,Pesta
+1237,1274,장난감,Mainan
+1238,1275,장례식,Pemakaman
+1239,1276,장만하다,Mempersiapkan
+1240,1277,조카,Keponakan perempuan
+1241,1278,조의금,Uang duka
+1242,1279,제기차기,Permainan bola tradisional
+1243,1280,절하다,Membungkuk
+1244,1281,주다,Memberi
+1245,1282,전통,Tradisional
+1246,1283,전날,Sehari sebelumnya
+1247,1284,줄다리기,Tarik tambang
+1248,1285,차례상,Meja upacara penghormatan
+1249,1286,차례상을 차리다,Menyiapkan meja sesajen
+1250,1287,차례를 지내다,Mengadakan upacara leluhur
+1251,1288,참석하다,Hadir
+1252,1289,첫 번째,Pertama
+1253,1290,집들이,Acara pindah rumah
+1254,1291,축하하다,Selamat
+1255,1292,축의금,Uang selamat
+1256,1293,추석,Hari raya panen
+1257,1294,초대를 받다,Menerima undangan
+1258,1295,초대하다,Mengundang
+1259,1296,친척,Sanak family
+1260,1297,한글날,Hari Hangeul
+1261,1298,한복,Pakaian tradisional Korea
+1262,1299,회갑,Ulang tahun ke 60 tahun
+1263,1300,환갑,Ulang tahun ke 60 tahun
+1264,1301,행사하다,Mengadakan acara / event
+1265,1302,뜻깊은,Bermakna
+1266,1303,게양,Mengibarkan
+1267,1304,풍습,Adat
+1268,1305,전통적인,Tradisional
+1269,1306,폐백,Penghormatan pengantin wanita kepada orang tua pengantin laki-laki
+1270,1307,신랑,Pengantin laki-laki
+1271,1308,현대적인,Modern
+1272,1309,혼례,Pernikahan
+1273,1310,조문객,Pelayat
+1274,1311,묵념,Mengenang
+1275,1312,형식,Bentuk
+1276,1313,돌아가,Meninggal
+1277,1314,BAB 28 한국의 명절,Hari Raya Korea
+1278,1315,명절,Hari raya
+1279,1316,윷놀이,Permainan tongkat
+1280,1317,설날,Tahun baru imlek
+1281,1318,세배,Salam tahun baru
+1282,1319,추석,Hari raya panen
+1283,1320,한복을 입다,Memakai hanbok
+1284,1321,세배하다,Melakukan salam tahun baru
+1285,1322,차례를 지내다,Upacara untuk leluhur
+1286,1323,떡국을 먹다,Makan sup kue beras
+1287,1324,덕담을 하다,Memberi nasihat
+1288,1325,덕담을 듣다,Mendengarkan nasihat
+1289,1326,세뱃돈을 주다,Memberi angpao
+1290,1327,세뱃돈을 받다,Menerima angpao
+1291,1328,놀이,Bermain
+1292,1329,절하다,Melakukan penghormatan
+1293,1330,학습 목표,Tujuan pembelajaran
+1294,1331,제기차기,Juggling bola (permainan tradisional)
+1295,1332,연날리기,Bermain layangan
+1296,1333,전통,Tradisional
+1297,1334,연휴,Libur tahunan
+1298,1335,행위,Tindakan
+1299,1336,산책,Jalan-jalan
+1300,1337,할아버지,Kakek
+1301,1338,떡국,Sup kue beras
+1302,1339,음력,Kalender china
+1303,1340,고향에 내려가다,Pulang kampong
+1304,1341,부모님을 찾아뵙다,Menemui orang tua
+1305,1342,친척집에 가다,Pergi ke rumah sanak saudara
+1306,1343,성묘하다,Berziarah
+1307,1344,추석 음식을 장만하다,Menyiapkan makanan chuseok
+1308,1345,송편을 만들다,Membuat kue beras
+1309,1346,차례상을 차리다,Menyiapkan meja persembahan
+1310,1347,줄다리기,Tarik tambang
+1311,1348,강강술래,Ganggangsullae
+1312,1349,보름달을 보다,Melihat bulan pernama
+1313,1350,소원을 빌다,Memohon / mengharap
+1314,1351,전날,Sehari sebelumnya
+1315,1352,모이다,Berkumpul
+1316,1353,뵙다,Melihat (bentuk hormat)
+1317,1354,능력,Kemampuan
+1318,1355,모여,Berkumpul
+1319,1356,대표적인,Yang mewakili / khas
+1320,1357,어른들,Orang tua
+1321,1358,조상,Leluhur
+1322,1359,친한,Ramah
+1323,1360,건강,Kesehatan
+1324,1361,즐거운,Menikmati
+1325,1362,처음,Pertama kali
+1326,1363,이야기,Bercerita
+1327,1364,피부병,Penyakit kulit
+1328,1365,딱딱하다,Keras
+1329,1366,껍질,Kulit (jenis kacang-kacangan)
+1330,1367,호두,Kenari
+1331,1368,땅콩,Kacang tanah
+1332,1369,말린,Kering
+1333,1370,오곡밥,Nasi 5 biji-bijian
+1334,1371,곡식,Biji - bijian
+1335,1372,손을 잡,Memegang tangan
+1336,1373,노래를 부르다,Menyanyi
+1337,1374,달빛,Sinar bulan
+1338,1375,한가위,Pesta panen raya
+1339,1376,대리님,Wakil
+1340,1377,수확,Panen
+1341,1378,새로,Baru
+1342,1379,BAB 29 한국의 예절,Tata krama Korea
+1343,1380,공공장소,Tempat umum
+1344,1381,금지하다,Larangan
+1345,1382,금연하다,Dilarang merokok
+1346,1383,길,Jalan
+1347,1384,구역,Area
+1348,1385,다리를 꼬다,Duduk meyilangkan kaki
+1349,1386,담배를 피우다,Merokok
+1350,1387,담배꽁초,Membuang puntung rokok
+1351,1388,뛰어다니다,Berlari
+1352,1389,도서관,Perpustakaan
+1353,1390,만지다,Menyentuh
+1354,1391,떠들다,Gaduh
+1355,1392,먼저,Lebih dulu
+1356,1393,반입하다,Bahasa formal
+1357,1394,반말하다,Bahasa informal
+1358,1395,박물관,Museum
+1359,1396,밥그릇,Mangkuk nasi
+1360,1397,무단횡단을 하다,Menyebrang sembarangan
+1361,1398,새치기하다,Menyerobot antrian
+1362,1399,수저,Sendok sumpit
+1363,1400,소리를 내다,Mengeluarkan suara / bunyi
+1364,1401,실수하다,Kesalahan
+1365,1402,앉다,Duduk
+1366,1403,어른,Orang tua
+1367,1404,예매하다,Memesan
+1368,1405,인사하다,Memberi salam
+1369,1406,예의에 어긋나다,Tidak ada sopan santun
+1370,1407,자리,Tempat duduk
+1371,1408,잠깐,Sebentar
+1372,1409,주차하다,Parkir
+1373,1410,지키다,Mentaati
+1374,1411,침을 뱉다,Meludah
+1375,1412,코를 풀다,Mengeluarkan ingus
+1376,1413,행동,Tindakan
+1377,1414,흡연하다,Area merokok
+1378,1415,흔들다,Melambaikan
+1379,1416,주차 금지구역,Area dilarang parkir
+1380,1417,음식물을 반입하다,Dilarang membawa makanan & minuman
+1381,1418,신호를 위반하다,Melanggar rambu lalu lintas
+1382,1419,전시품을 만지다,Dilarang menyantuh
+1383,1420,밖에,Diluar
+1384,1421,이름을 부르다,Memanggil nama
+1385,1422,밥그릇을 들고먹다,Makan dengan mengangkat mangkuk
+1386,1423,수저를 같이 들다,Memegang sendok dan sumpit bersamaan
+1387,1424,한 손으로 물건을 주다,Memberi barang dengan satu tangan
+1388,1425,정말,Sungguh
+1389,1426,처음,Pertama kali
+1390,1427,서로 조화롭게,Tenggang rasa
+1391,1428,대중교통,Transportasi umum
+1392,1429,약자,Orang lemah fisik
+1393,1430,피해를 주다,Merugikan
+1394,1431,냄새,Bau
+1395,1432,신경 쓰다,Peduli
+1396,1433,집안,Dalam rumah
+1397,1434,조심,Hati-hati
+1398,1435,음악,Musik
+1399,1436,임산부,Ibu hamil
+1400,1437,공공시설,Fasilitas umum
+1401,1438,미술관,Galeri seni
+1402,1439,BAB 30 한국의 대중문화,Budaya popular Korea
+1403,1440,K-댄스,Korean Dance
+1404,1441,K-드라마,Drama Korea
+1405,1442,K-뷰티,Kecantikan Korea
+1406,1443,K-예능,Acara hiburan keluarga
+1407,1444,K-웹툰,Komik Korea
+1408,1445,K-팝,Korean Pop
+1409,1446,K-푸드,Makanan Korea
+1410,1447,경기장,Stadion
+1411,1448,가사,Lirik
+1412,1449,가수,Penyanyi
+1413,1450,관중,Penonton
+1414,1451,관중석,Kursi penonton
+1415,1452,단체,Grup
+1416,1453,따라 부르다,Beryanyi bersama
+1417,1454,따라 추다,Menari bersama
+1418,1455,배우,Actor
+1419,1456,아이돌,Idol K-pop
+1420,1457,영향을 주다,Pengaruh
+1421,1458,인기를 끌다,Mendapatkan popularitas
+1422,1459,입장권,Tiket masuk
+1423,1460,응원하다,Mendukung
+1424,1461,응원가,Yel-yel
+1425,1462,응원단,Supporter
+1426,1463,클럽,Klub
+1427,1464,프로,Professional
+1428,1465,한류,Budaya korea
+1429,1466,관람하다,Menonton
+1430,1467,경기,Pertandingan olahraga
+1431,1468,유니폼,Seragam
+1432,1469,인기,Popular
+1433,1470,팬 클럽,Klub penggemar
+1434,1471,예매하다,Memesan (tiket)
+1435,1472,음악 장르,Genre music
+1436,1473,추측하다,Dugaan
+1437,1474,화려한,Mewah
+1438,1475,역할,Peran
+1439,1476,태양의 후예,Descendants of the sun
+1440,1477,오징어 게임,Squid game
+1441,1478,미스터 션샤인,Mr. sunshine
+1442,1479,도깨비,Goblin
+1443,1480,실감,Penuh perasaan
+1444,1481,BAB 31 복장과 근무 태도,Seragam dan sikap kerja
+1445,1482,갈아입다,Mengganti baju
+1446,1483,공장,Pabrik
+1447,1484,공장장,Kepala pabrik
+1448,1485,그렇다,Seperti itu
+1449,1486,긍정적,Positif
+1450,1487,넥타이,Dasi
+1451,1488,단추,Kancing
+1452,1489,단정하다,Rapi
+1453,1490,다행,Beruntung
+1454,1491,매다,Memakai (bagian Leher)
+1455,1492,무시하다,Mengabaikan
+1456,1493,배려하다,Mempedulikan / perhatian
+1457,1494,벗다,Melepas
+1458,1495,복장,Pakaian
+1459,1496,부정적이다,Negative
+1460,1497,불쾌하다,Tidak nyaman
+1461,1498,새,Baru
+1462,1499,서로,Saling
+1463,1500,사용하다,Menggunakan
+1464,1501,성실하다,Rajin
+1465,1502,양복,Jas
+1466,1503,안전하다,Keamanan
+1467,1504,의견,Pendapat
+1468,1505,작업하다,Melakukan pekerjaan
+1469,1506,작업복,Pakaian kerja
+1470,1507,잠그다,Mengancingkan / mengunci
+1471,1508,익숙해지다,Menjadi terbiasa
+1472,1509,지퍼,Resleting
+1473,1510,참,Sungguh
+1474,1511,태도,Sikap
+1475,1512,피해를 주다,Merugikan
+1476,1513,함부로,Berlaku sembarangan
+1477,1514,항상,Selalu
+1478,1515,학습 목표,Tujuan pembelajaran
+1479,1516,유니폼,Seragam
+1480,1517,넥타이를 풀다,Melepas dasi
+1481,1518,넥타이를 매다,Memakai dasi
+1482,1519,지퍼를 내리다,Menurunkan resleting
+1483,1520,지퍼를 올리다,Menaikkan resleting
+1484,1521,단추를 잠그다,Mengancingkan baju
+1485,1522,단추를 풀다,Melepas kancing
+1486,1523,짐작됨,Dugaan
+1487,1524,형용사,Kata sifat
+1488,1525,예의가 있다,Ada etika
+1489,1526,예의가 없다,Tidak ada etika
+1490,1527,반말을 하다,Berbicara informal
+1491,1528,존댓말을 하다,Berbicara formal
+1492,1529,존중하다,Menghargai
+1493,1530,칭찬하다,Ramah
+1494,1531,방식,Cara
+1495,1532,호칭,Panggilan
+1496,1533,직책,Jabatan
+1497,1534,윗사람,Orang tua
+1498,1535,부장님,Kepala bagian
+1499,1536,과장님,Manajer
+1500,1537,반장님,Mandor
+1501,1538,성,Marga
+1502,1539,후배,Junior
+1503,1540,동료,Rekan kerja
+1504,1541,선배님,Senior
+1505,1542,BAB 32 회사 시설 이용,Penggunaan fasilitas perusahaan
+1506,1543,계단,Tangga beton
+1507,1544,가지다,Mempunyai
+1508,1545,공용,Ruang umum
+1509,1546,관리인,Pengelola
+1510,1547,규칙,Aturan
+1511,1548,구내식당,Kafetaria / kantin
+1512,1549,끼리,Sesama
+1513,1550,놓다,Meletakkan
+1514,1551,담다,Mewadahi
+1515,1552,다른,Berbeda
+1516,1553,도시락,Kotak bekal / kotak makanan
+1517,1554,데려오다,Membawa (orang)
+1518,1555,미리,Lebih dahulu
+1519,1556,배식대,Tempat makanan
+1520,1557,복도,Lorong
+1521,1558,세탁실,Ruang cuci
+1522,1559,식수대,Tempat minum
+1523,1560,식단표,Papan menu
+1524,1561,식권,Kupon makan
+1525,1562,식판,Peralatan makan
+1526,1563,어기다,Melanggar
+1527,1564,조리실,Dapur
+1528,1565,출입문,Pintu keluar masuk
+1529,1566,퇴식구,Area pengembalian alat makan
+1530,1567,혼자,Sendiri
+1531,1568,할인되다,Diskon
+1532,1569,샤워실,Kamar mandi
+1533,1570,규칙을 지키다,Mentaati aturan
+1534,1571,기숙사,Asrama
+1535,1572,나오다,Mengeluarkan
+1536,1573,수칙,Aturan
+1537,1574,전등,Lampu
+1538,1575,깨끗이,Bersih
+1539,1576,배경,Latar belakang
+1540,1577,청결하다,Kebersihan
+1541,1578,BAB 33 동료와의 관계,Hubungan dengan rekan kerja
+1542,1579,가끔,Kadang-kadang
+1543,1580,격려하다,Mendukung / menyemangati
+1544,1581,관계,Hubungan
+1545,1582,그래도,Walaupun begitu
+1546,1583,규율,Aturan
+1547,1584,놀리다,Mempermainkan
+1548,1585,따르다,Mengikuti
+1549,1586,말다툼하다,Berdebat
+1550,1587,믿다,Percaya
+1551,1588,모두,Semua
+1552,1589,무섭다,Takut
+1553,1590,부장,Kepala bagian
+1554,1591,부하,Bawahan
+1555,1592,분위기,Perasaan
+1556,1593,상사,Atasan
+1557,1594,사고가 나다,Mengalami kecelakaan
+1558,1595,사과하다,Minta maaf
+1559,1596,사이,Antara
+1560,1597,생각하다,Berfikir
+1561,1598,소리를 지르다,Berteriak
+1562,1599,아끼다,Mengasihi
+1563,1600,엄격하다,Ketat
+1564,1601,에게 / 한테,Untuk
+1565,1602,오해하다,Salah paham
+1566,1603,윗분,Atasan
+1567,1604,위해주다,Memperhatikan
+1568,1605,의지하다,Bersandar
+1569,1606,잔소리하다,Mengoceh
+1570,1607,잘하다,Mahir
+1571,1608,자꾸,Sering
+1572,1609,자유롭다,Bebas
+1573,1610,정도,Derajat
+1574,1611,지내다,Melewati
+1575,1612,직장,Tempat kerja
+1576,1613,짜증을 내다,Jengkel
+1577,1614,친하다,Akrab
+1578,1615,화해하다,Berdamai
+1579,1616,화를 내다,Marah
+1580,1617,힘내다,Bersemangat
+1581,1618,사이가 좋다,Hubungan baik
+1582,1619,사이가 나쁘다,Hubungan buruk
+1583,1620,분위기가 나쁘다,Suasana buruk
+1584,1621,규율이 엄격하다,Aturan ketat
+1585,1622,분위기가 좋다,Suasana bagus
+1586,1623,서로 위해주다,Saling menghargai
+1587,1624,단정적,Pasti
+1588,1625,사과하다,Minta maaf
+1589,1626,회식,Acara makan
+1590,1627,참석,Hadir
+1591,1628,진행되다,Berlangsung
+1592,1629,모임,Berkumpul
+1593,1630,종교,Agama
+1594,1631,술,Miras
+1595,1632,BAB 34 성희롱 및 성추행 예방,Pelecehan seksual dan pencegahan
+1596,1633,거부감,Penolakan
+1597,1634,가해자,Pelaku
+1598,1635,깜짝,Terkejut
+1599,1636,놀라다,Kaget
+1600,1637,농담,Bercanda
+1601,1638,느끼다,Merasa
+1602,1639,대처하다,Penanganan
+1603,1640,발생하다,Terjadi
+1604,1641,문제,Masalah
+1605,1642,분명하다,Menyatakan
+1606,1643,불쾌감,Tidak nyaman
+1607,1644,상황,Keadaan
+1608,1645,상대방,Pihak lain
+1609,1646,성 인지 감수성,Kepekaan gender
+1610,1647,성범죄,Kejahatan seksual
+1611,1648,성별,Jenis kelamin
+1612,1649,성적,Watak
+1613,1650,성차별적,Seksual
+1614,1651,성희롱,Pelecehan seksual
+1615,1652,수치심,Malu
+1616,1653,신고하다,Melapor
+1617,1654,심하다,Berlebihan
+1618,1655,양성평등,Kesetaraan gender
+1619,1656,알아차리다,Menyadari
+1620,1657,예민하다,Sensitive
+1621,1658,언어,Bahasa
+1622,1659,아까,Barusan
+1623,1660,요구하다,Permintaan
+1624,1661,의사,Niat
+1625,1662,의도,Maksud
+1626,1663,음담패설,Cerita mesum
+1627,1664,음란물,Pornografi
+1628,1665,이해하다,Memahami
+1629,1666,증거,Bukti
+1630,1667,증인,Saksi
+1631,1668,차이,Perbedaan
+1632,1669,표현하다,Ungkapan
+1633,1670,표정,Raut wajah
+1634,1671,피해자,Korban
+1635,1672,행동하다,Tindakan
+1636,1673,성적 농담,Candaan seksual
+1637,1674,성차별적 언어,Bahasa seksual
+1638,1675,신체 접촉,Kontak fisik
+1639,1676,조심하다,Hati-hati
+1640,1677,양성평등,Kesetaraan gender
+1641,1678,성별 차이,Perbedaan gender
+1642,1679,의사를 표현하다,Menyatakan niat
+1643,1680,당하다,Menderita
+1644,1681,야유회,Piknik
+1645,1682,굴욕감,Rasa malu
+1646,1683,환경,Lingkungan
+1647,1684,존엄성,Martabat
+1648,1685,성적인,Seksual
+1649,1686,처벌,Hukuman
+1650,1687,손해배상,Kompensasi kerugian
+1651,1688,BAB 35 작업장 관리,Pengelolaan tempat kerja
+1652,1689,곧,Segera
+1653,1690,관리하다,Pengelolaan
+1654,1691,냉동,Beku
+1655,1692,냉장,Pendingin
+1656,1693,담당자,Penanggung jawab
+1657,1694,냄새,Bau
+1658,1695,덮개,Memasang
+1659,1696,덮다,Penutup
+1660,1697,도구,Alat
+1661,1698,먼저,Lebih dulu
+1662,1699,두다,Meletakkan
+1663,1700,물류,Logistik
+1664,1701,보관하다,Menyimpan
+1665,1702,소음,Suara
+1666,1703,엉망이다,Berantakan
+1667,1704,유지하다,Menjaga
+1668,1705,옮기다,Memindahkan
+1669,1706,온도,Suhu
+1670,1707,열다,Membuka
+1671,1708,더럽다,Kotor
+1672,1709,적정 온도,Temperatur aman
+1673,1710,저장하다,Menyimpan
+1674,1711,재고,Stok
+1675,1712,작업장,Tempat kerja
+1676,1713,작업대,Meja kerja
+1677,1714,자재,Bahan
+1678,1715,중요하다,Penting
+1679,1716,정리하다,Merapikan
+1680,1717,냄새가 심하다,Bau tak sedap
+1681,1718,치우다,Membersihkan
+1682,1719,창고,Gudang
+1683,1720,컨테이너,Kontener
+1684,1721,쾌적하다,Menyenangkan
+1685,1722,파악하다,Mengecek
+1686,1723,특히,Khusus
+1687,1724,환기하다,Membuka ventilasi
+1688,1725,환경,Lingkungan
+1689,1726,소음이 심하다,Berisik
+1690,1727,버리다,Membuang
+1691,1728,쓸다,Menyapu
+1692,1729,닦다,Mengelap
+1693,1730,물류 창고,Gudang logistik
+1694,1731,냉장 창고,Gudang pendingin
+1695,1732,고부가가치,Nilai tambah
+1696,1733,경공업,Industri ringan
+1697,1734,글로벌화,Globalisasi
+1698,1735,임업,Kehutanan
+1699,1736,역할,Peran
+1700,1737,수산물,Produk laut
+1701,1738,전체,Seluruh
+1702,1739,경쟁력,Daya kompetensi
+1703,1740,자율주행차,Mobil otonom
+1704,1741,인공지능,Kecerdasan buatan
+1705,1742,BAB 36 출하 관리,Pengelolaan pengiriman
+1706,1743,검수하다,Mengamati
+1707,1744,별,Berdasarkan (kategori)
+1708,1745,갖다 놓다,Membawa & meletakkan
+1709,1746,깨지다,Pecah
+1710,1747,꼼꼼하다,Teliti
+1711,1748,나르다,Memindahkan
+1712,1749,녹슬다,Berkarat
+1713,1750,납품하다,Mendistribusikan
+1714,1751,내리다,Menurunkan
+1715,1752,대차,Gerobak
+1716,1753,라벨,Label
+1717,1754,맞추다,Menyesuaikan
+1718,1755,위에서 떨어지다,Jatuh dari atas
+1719,1756,밀봉하다,Menyegel
+1720,1757,묶다,Mengikat
+1721,1758,밧줄,Tambang
+1722,1759,방청지,Kertas anti karat
+1723,1760,분류하다,Menyortir
+1724,1761,붙이다,Menempelkan
+1725,1762,빠짐없이,Tanpa kecuali
+1726,1763,선반 기계,Mesin bubut
+1727,1764,수량,Jumlah
+1728,1765,손상되다,Rusak
+1729,1766,신경을 쓰다,Memperhatikan
+1730,1767,싣다,Memuat
+1731,1768,쌓다,Menumpuk
+1732,1769,업체,Perusahaan
+1733,1770,운반하다,Mengangkut
+1734,1771,운송하다,Mengeposkan
+1735,1772,완충재,Bahan bantalan
+1736,1773,입고하다,Memasukkan (barang)
+1737,1774,적재하다,Memuat
+1738,1775,지게차,Forklift
+1739,1776,중량,Jumlah berat
+1740,1777,주의하다,Peringatan
+1741,1778,지시하다,Menginstruksikan
+1742,1779,출하하다,Mengirimkan (barang)
+1743,1780,출고하다,Mengeluarkan (barang)
+1744,1781,출하량,Jumlah pengiriman
+1745,1782,크기,Ukuran / besar
+1746,1783,파렛트,Palet
+1747,1784,포장 기준서,Surat standar kemasan
+1748,1785,핸드 카트,Troli tangan
+1749,1786,핸드 파렛트,Palet tangan
+1750,1787,무역,Perdagangan
+1751,1788,정책,Kebijakan
+1752,1789,천연자원,Sumber daya alam
+1753,1790,수입,Impor
+1754,1791,원유,Minyak mentah
+1755,1792,천연가스,Gas alami
+1756,1793,철강 원자재,Bahan baku baja
+1757,1794,조선,Pembuatan kapal
+1758,1795,반도체,Semikonduktor
+1759,1796,석유화학제품,Produk petrokimia
+1760,1797,수출,Ekspor
+1761,1798,자유무역협,Perjanjian perdagangan bebas
+1762,1799,경쟁력,Daya saing
+1763,1800,특정,Khusus
+1764,1801,BAB 37 기계 가공,Pengoperasian mesin
+1765,1802,갈다,Menghaluskan
+1766,1803,공작물,Komponen
+1767,1804,구멍,Melubangi
+1768,1805,기구,Alat
+1769,1806,기계,Mesin
+1770,1807,끄다,Mematikan
+1771,1808,끼다,Terjebak
+1772,1809,끼우다,Memasukkan
+1773,1810,낫다,Sembuh
+1774,1811,당기다,Menarik
+1775,1812,도려내다,Mengikis
+1776,1813,도면,Cetak biru
+1777,1814,레버,Tuas
+1778,1815,드릴링머신,Mesin bor
+1779,1816,먼지를 떨다,Membersihkan debu
+1780,1817,멈추다,Berhenti
+1781,1818,밀링 머신,Mesin giling
+1782,1819,밀다,Mendorong
+1783,1820,밀리다,Tertunda
+1784,1821,부품,Komponen
+1785,1822,빼다,Mengeluarkan
+1786,1823,상,Atas
+1787,1824,스위치,Saklar
+1788,1825,양,Jumlah
+1789,1826,압축하다,Mengepres
+1790,1827,아무리,Seberapapun
+1791,1828,에어컴프레서,Kompresor
+1792,1829,용도,Kegunaan
+1793,1830,우,Kanan
+1794,1831,우선,Pertama
+1795,1832,이동시키다,Perpindahan
+1796,1833,장착하다,Memasang
+1797,1834,자르다,Memotong
+1798,1835,작동하다,Mengoperasikan
+1799,1836,전동커터기,Pemotong listrik
+1800,1837,전원,Listrik
+1801,1838,점검하다,Memeriksa
+1802,1839,정확하다,Dengan tepat
+1803,1840,제대로,Dengan benar / Sepantasya
+1804,1841,좌,Kiri
+1805,1842,찍어 내다,Mengecap
+1806,1843,철판,Plat logam
+1807,1844,칩,Chip
+1808,1845,켜다,Menyalakan
+1809,1846,프레스 기계,Mesin pres
+1810,1847,하,Bawah
+1811,1848,회전,Berputar
+1812,1849,환풍기,Ventilator udara
+1813,1850,해체하다,Membongkar
+1814,1851,핸들,Pegangan
+1815,1852,가전제품,Peralatan rumah tangga
+1816,1853,세계,Dunia
+1817,1854,다양한,Yang beraneka ragam / bervariatif
+1818,1855,청소기,Vacuum cleaner
+1819,1856,브랜드인데,Brand
+1820,1857,탑재되,Pemuatan
+1821,1858,기능,Fitur / fungsi
+1822,1859,제균,Sterilisasi
+1823,1860,탈취,Penghilang bau
+1824,1861,쇼케이스 (홈바),Home bar
+1825,1862,BAB 38 기계 조립,Perakitan mesin
+1826,1863,경사,Lereng
+1827,1864,가져오다,Membawa
+1828,1865,고정하다,Menetapkan
+1829,1866,공구,Alat
+1830,1867,교체하다,Mengganti
+1831,1868,기어,Roda gigi
+1832,1869,나사못,Sekrup
+1833,1870,니퍼,Tang
+1834,1871,느슨하다,"Longgar, kendur"
+1835,1872,너트,Mur
+1836,1873,단단하다,Keras
+1837,1874,돌아가다,Berputar
+1838,1875,마모되다,"Terkikis, menjadi aus"
+1839,1876,롱노즈플라이어,Tang hidung panjang
+1840,1877,멍키 스패너,Kunci inggris
+1841,1878,볼트,Baut
+1842,1879,베어링,Bantalan
+1843,1880,분해하다,Membongkar
+1844,1881,사각형,Persegi panjang
+1845,1882,선반 기계,Mesin bubut
+1846,1883,수준기,Alat pengukur tingkat
+1847,1884,스패너,Kunci pas
+1848,1885,십자드라이버,Obeng phillips
+1849,1886,없어지다,"Hilang, sirna"
+1850,1887,원형,Lingkaran
+1851,1888,육각 렌치,"Kunci pas heksagonal, kunci persegi enam"
+1852,1889,육각형,"Heksagon, segi enam"
+1853,1890,일자드라이버,Obeng kepala datar
+1854,1891,자석,Magnet
+1855,1892,조립하다,Merakit
+1856,1893,조이다,Mengencangkan
+1857,1894,조절하다,"Menyesuaikan, mengontrol"
+1858,1895,축,"Poros, sumbu"
+1859,1896,철사,Kawat
+1860,1897,파손되다,Rusak
+1861,1898,파이프 렌치,Kunci pipa
+1862,1899,평평하다,Datar
+1863,1900,펜치,Tang
+1864,1901,코일 스프링,Pegas koil
+1865,1902,토크 렌치,Kunci torsi (torque wrench)
+1866,1903,풀러,Alat penarik
+1867,1904,풀다,"Melonggarkan, melepaskan"
+1868,1905,플라이어,Tang hidung panjang
+1869,1906,확인하다,Mengonfirmasi
+1870,1907,해결하다,Menyelesaikan
+1871,1908,힘,"Kekuatan, tenaga"
+1872,1909,생산,Produksi
+1873,1910,전기차,Kendaraan lisrik
+1874,1911,수소차,Kendaraan hidrogen
+1875,1912,경쟁력,Daya saing
+1876,1913,BAB 39 금속 가공,Pengolahan logam
+1877,1914,가늘다,Tipis (dalam diameter)
+1878,1915,가스 용접기,Mesin las gas
+1879,1916,굵다,Tebal (dalam diameter)
+1880,1917,느리다,Lambat
+1881,1918,두께,Ketebalan
+1882,1919,두껍다,Tebal
+1883,1920,밀리미터,Milimeter (mm)
+1884,1921,불꽃,"Bunga api, nyala api"
+1885,1922,빠르다,Cepat
+1886,1923,가스가 새다,Gas bocor
+1887,1924,세다,Kuat
+1888,1925,속도,Kecepatan
+1889,1926,소화기,Tabung pemadam api
+1890,1927,얇다,Tipis
+1891,1928,용접하다,Mengelas
+1892,1929,전기 용접기,Mesin las listrik
+1893,1930,전기 절단기,Gergaji potong listrik
+1894,1931,절단하다,Memotong
+1895,1932,절단기,Mesin pemotong
+1896,1933,준비하다,Menyiapkan
+1897,1934,조절기,Regulator
+1898,1935,튀다,Memercikkan api
+1899,1936,판금 가위,Gunting logam
+1900,1937,토치,Obor las
+1901,1938,망치,Palu
+1902,1939,정,Pahat
+1903,1940,리머,Pemutar ulang
+1904,1941,금 긋기 바늘,Jarum penarik garis
+1905,1942,쇠톱,Gergaji besi
+1906,1943,줄,Kikir
+1907,1944,바이스,Penjepit
+1908,1945,공구 사용법,Cara menggunakan alat
+1909,1946,공구 종류,Jenis alat
+1910,1947,못을 박다,Menancapkan paku
+1911,1948,구멍을 뚫다,"Mengebor lubang, membuat lubang"
+1912,1949,구멍을 다듬다,Meratakan lubang
+1913,1950,파이프를 자르다,Memotong pipa
+1914,1951,금을 긋다,Menarik garis
+1915,1952,금속을 깎다,Menempa logam
+1916,1953,물체를고정하다,Memperbaiki objek
+1917,1954,상해,Cedera
+1918,1955,원반,Cakram
+1919,1956,표면,Permukaan
+1920,1957,안전커버,Perisai pelindung
+1921,1958,방진마스크,Masker debu
+1922,1959,보안경,Kacamata pengaman
+1923,1960,올바른,Benar
+1924,1961,튕겨져,"Melenting, memantul"
+1925,1962,조심,Hati-hati
+1926,1963,솟구쳐,Melambung
+1927,1964,BAB 40 플라스틱 고무 성형,Plastik dan pembentukkan karet
+1928,1965,가로,"Horisontal, mendatar, lebar"
+1929,1966,검다,Hitam
+1930,1967,검사하다,Memeriksa
+1931,1968,길이,Panjang
+1932,1969,나오다,Keluar
+1933,1970,높이다,Meninggikan
+1934,1971,낮추다,Menurunkan
+1935,1972,덜,Kurang
+1936,1973,무게를 재다,Menimbang berat
+1937,1974,무게,Berat
+1938,1975,버니어캘리퍼스,Jangka sorong
+1939,1976,불량,Cacat
+1940,1977,불량품,Produk cacat
+1941,1978,비율,"Rasio, kadar"
+1942,1979,살펴보다,Mengamati
+1943,1980,성형,"Pencetakan, pembentukan"
+1944,1981,세로,"Vertikal, tegak lurus, panjang"
+1945,1982,압력,Tekanan
+1946,1983,원인,Penyebab
+1947,1984,원재료,Bahan baku
+1948,1985,이상,Masalah
+1949,1986,자,Penggaris
+1950,1987,전자 저울,Timbangan elektronik
+1951,1988,점,Titik
+1952,1989,접시 저울,Timbangan piring
+1953,1990,제품,Produk
+1954,1991,중지하다,Menghentikan
+1955,1992,줄자,Meteran
+1956,1993,줄,"Tali, lajur, kikir"
+1957,1994,조치,Tindakan
+1958,1995,조치를 취하다,Mengambil tindakan
+1959,1996,첨가제,"Bahan tambahan, bahan skunder"
+1960,1997,측정하다,Mengukur
+1961,1998,투입하다,Memasukkan
+1962,1999,표면,Permukaan
+1963,2000,혼합하다,Mencampur
+1964,2001,혼합기,Mixer
+1965,2002,휘다,Membengkokkan
+1966,2003,중량을 측정하다,Mengukur berat
+1967,2004,성형이 덜되다,Bentuk tidak lengkap
+1968,2005,깨지다,Pecah
+1969,2006,검은 점이 생기다,Muncul bitnik hitam
+1970,2007,검은 줄이 생기다,Muncul garis hitam
+1971,2008,온도를 조절하다,Mengatur temperatur
+1972,2009,이상이 있다,Terdapat keanehan
+1973,2010,원인,Penyebab
+1974,2011,친환경,Ramah lingkungan
+1975,2012,석탄,Batu bara
+1976,2013,변화,Perubahan
+1977,2014,온실가스,Gas ruang kaca
+1978,2015,연료의,Bahan bakar
+1979,2016,탄소 배출,Emisi karbon
+1980,2017,부응하,Merespon
+1981,2018,경영,"Managemen, pengelolaan"
+1982,2019,BAB 41 섬유 제조,Pabrik tekstil
+1983,2020,가공하다,"Mengolah, memproses"
+1984,2021,견,Sutra
+1985,2022,건조하다,Mengeringkan
+1986,2023,고르다,Memilih
+1987,2024,관리 대장,Kepala pengelola (management)
+1988,2025,나일론,Nilon
+1989,2026,막대기,"Tongkat, galah"
+1990,2027,말리다,Mengeringkan
+1991,2028,면,Kain katun
+1992,2029,모,Wol
+1993,2030,민감하다,"Sensitif, peka"
+1994,2031,벌레,Serangga
+1995,2032,변색되다,Menjadi pudar
+1996,2033,불순물,Noda
+1997,2034,서두르다,Bergegas
+1998,2035,섞다,Mencampur
+1999,2036,세척하다,"Mencuci, membersihkan"
+2000,2037,습하다,Lembab
+2001,2038,습도,Kelembapan
+2002,2039,약품,Bahan kimia
+2003,2040,약해지다,Melemah
+2004,2041,아크릴,Akrilik
+2005,2042,엉키다,Kusut
+2006,2043,염료,Pewarna
+2007,2044,염색하다,Mewarnai
+2008,2045,오염되다,"Terkontaminasi, tercemar"
+2009,2046,온습도계,Alat pengukur suhu kelembaban
+2010,2047,원사,Benang
+2011,2048,원단,Kain
+2012,2049,일정하다,"Konsisten, teratur"
+2013,2050,장마철,Musim hujan
+2014,2051,적정,Sesuai
+2015,2052,주기적,"Periodik, berkala"
+2016,2053,젓다,Mengaduk
+2017,2054,제거하다,"Menghapus, menghilangkan"
+2018,2055,직사광선,Sinar matahari langsung
+2019,2056,천연 섬유,Serat alami
+2020,2057,펴다,"Merentangkan, membentangkan"
+2021,2058,탈수하다,Meniriskan
+2022,2059,통풍이 잘되다,Ventilasi yang baik
+2023,2060,표백하다,Memutihkan
+2024,2061,폴리에스터,Poliester (bahan textil)
+2025,2062,하얗다,Putih
+2026,2063,피하다,Menghindari
+2027,2064,합성 섬유,Serat sintetis
+2028,2065,조절하다,Mengatur
+2029,2066,측정하다,Mengukur
+2030,2067,유지하다,Menjaga
+2031,2068,직사광선을 피하다,Menghindari sinar matahari langsung
+2032,2069,원단을 펴다,Membentangkan kain
+2033,2070,염료를 섞다,Mencampurkan warna
+2034,2071,관심,Minat
+2035,2072,주목,Perhatian
+2036,2073,창의적,Kreatif
+2037,2074,영향,Pengaruh
+2038,2075,디자이너,Desain
+2039,2076,발전,Berkembang
+2040,2077,중심,Pusat
+2041,2078,화학섬유,Serat sintetis
+2042,2079,BAB 42 가구 제작,Pembuatan furnitur
+2043,2080,건조시키다,Mengeringkan
+2044,2081,곡류,Biji-bijian
+2045,2082,그라인더,Gerinda
+2046,2083,날물,Pisau gergaji
+2047,2084,도색하다,Mengecat
+2048,2085,도장하다,"Mengecap, Mewarna"
+2049,2086,롤러,"Roller, rol"
+2050,2087,마감재를 칠하다,Mengoleskan bahan pelapis
+2051,2088,메모하다,"Catatan, menulis catatan"
+2052,2089,메우다,Mengisi
+2053,2090,목재,Kayu
+2054,2091,분무기,Alat penyemprot
+2055,2092,붓,Kuas
+2056,2093,뿌리다,Menaburkan
+2057,2094,샌딩하다,Mengamplas (dengan mesin)
+2058,2095,사포,Kertas amplas
+2059,2096,사포질을 하다,Mengamplas
+2060,2097,센티미터,Sentimeter
+2061,2098,스프레이,"Semprotan, spray"
+2062,2099,열풍기,Kipas udara panas
+2063,2100,원목,Kayu
+2064,2101,인치,Inci
+2065,2102,제작하다,"Membuat, memproduksi"
+2066,2103,젯소,Sealer (cairan pelapis)
+2067,2104,짜리,"Nilai (uang, waktu)"
+2068,2105,클램프,Penjepit
+2069,2106,테이블톱,Gergaji meja
+2070,2107,퍼티,Dempul
+2071,2108,퍼티헤라,Spatula dempul (kapi)
+2072,2109,페인트,Cat
+2073,2110,폭,Lebar
+2074,2111,홈,Alur
+2075,2112,길이,Panjang
+2076,2113,두께,Ketebalan
+2077,2114,대패,Ketam
+2078,2115,끌,Pahat
+2079,2116,클램프,Penjepit
+2080,2117,물을 뿌리다,Menyemprot air
+2081,2118,홈을 메우다,Mengisi alur
+2082,2119,말리다,Mengeringkan
+2083,2120,바니시,Varnish
+2084,2121,바르다,Penutup
+2085,2122,페인트를 칠하다,Mengecat
+2086,2123,초벌재를칠하다,Mengoleskan cat dasar
+2087,2124,스프레이 건,Pistol semprot
+2088,2125,페인트를 섞다혼합하다,Mengaduk cat
+2089,2126,빌트인,Built in
+2090,2127,건물,Gedung
+2091,2128,안정적,Stabil
+2092,2129,특징,Karakteristik
+2093,2130,장식장,Lemari pajangan
+2094,2131,수납장,Lemari
+2095,2132,교체하다,Mengganti
+2096,2133,식기 세척기,Pencuci piring
+2097,2134,전기 오븐,Oven listrik
+2098,2135,BAB 43 건축 시공,Konstruksi arsitektur
+2099,2136,거푸집,Bekisting
+2100,2137,결속 핸들,Pegangan pengikat
+2101,2138,결속하다,Mengikat
+2102,2139,결속선,Kawat pengikat
+2103,2140,공사장,Lokasi konstruksi
+2104,2141,교차점,Persimpangan
+2105,2142,기둥,Kolom
+2106,2143,다녀오다,Pulang pergi
+2107,2144,꽉,Kencang
+2108,2145,마주,Berhadapan langsung
+2109,2146,가져가다,"Mengangkut, membawa pergi"
+2110,2147,모래,Pasir
+2111,2148,배근하다,Mengatur besi tulangan
+2112,2149,부탁하다,"Meminta, memohon"
+2113,2150,복잡하다,Rumit / kompleks
+2114,2151,사라지다,Menghilang
+2115,2152,설치하다,"Memasang, merakit"
+2116,2153,손전등,lampu senter
+2117,2154,시멘트,Semen
+2118,2155,양,Jumlah
+2119,2156,완료하다,Menyelesaikan
+2120,2157,웨지핀,Pin penjepit
+2121,2158,움직이다,Bergerak
+2122,2159,자갈,Kerikil
+2123,2160,충분히,Cukup
+2124,2161,철근,Besi beton
+2125,2162,철거하다,Membongkar
+2126,2163,체결하다,Mengikat
+2127,2164,콘크리트,Beton
+2128,2165,콘크리트믹서 트럭,Truk pengaduk cor beton
+2129,2166,타설하다,Menuang cor beton
+2130,2167,하중을 받다,Mendapat tekanan
+2131,2168,필요하다,"Memerlukan, membutuhkan"
+2132,2169,플랫 타이,Tali datar
+2133,2170,움직이다,Memindahkan
+2134,2171,완료하다,Menyelesaikan
+2135,2172,중장비,Alat berat
+2136,2173,운반 장비,Alat pengangkut
+2137,2174,토목 장비,Alat teknik sipil
+2138,2175,포장 장비,Alat paving
+2139,2176,교량,Jembatan
+2140,2177,불도저,Bulldozer
+2141,2178,크레인,Crane
+2142,2179,굴착기,Excavator
+2143,2180,스크레이퍼,Scraper
+2144,2181,로더,Loader
+2145,2182,땅을 깎다,Meratakan tanah
+2146,2183,덤프트럭,Dump truk
+2147,2184,콘크리트믹서 트럭,Truk molen / mixer beton
+2148,2185,트랙터,Traktor
+2149,2186,그레이더,Grader
+2150,2187,콘크리트펌프 트럭,Truk pompa beton
+2151,2188,아스팔트살포기,Penyemprot aspal
+2152,2189,땅바닥,"Lantai tanah, dasar tanah"
+2153,2190,모래,Pasir
+2154,2191,BAB 44 토목 시공,Teknik sipil
+2155,2192,가까이,Dekat
+2156,2193,고압,Tekanan tinggi
+2157,2194,관,Pipa
+2158,2195,긁어내다,Mengikis
+2159,2196,그동안,Selama ini
+2160,2197,균열,Retakan
+2161,2198,구역,Daerah
+2162,2199,굳다,Mengeras
+2163,2200,나누다,Memisahkan
+2164,2201,누수,Kebocoran
+2165,2202,너비,Lebar
+2166,2203,다지다,Memadatkan
+2167,2204,되메우기,Menutup kembali
+2168,2205,딱딱하다,Keras
+2169,2206,땅,Tanah
+2170,2207,미루다,Menunda
+2171,2208,배치하다,Menempatkan
+2172,2209,부드럽다,Lembut
+2173,2210,빨아들이다,Menyedot
+2174,2211,빼다,Mengeluarkan
+2175,2212,상하수도,Pasokan air
+2176,2213,성토하다,Menumpuk tanah
+2177,2214,수로,Saluran air
+2178,2215,시공,Konstruksi
+2179,2216,쌓이다,"Menumpuk, menimbun"
+2180,2217,어서,Cepat
+2181,2218,연결하다,Menghubungkan
+2182,2219,절토하다,"Memotong, mencungkil tanah"
+2183,2220,제자리,Tempat semula
+2184,2221,준설하다,Mengeruk
+2185,2222,주문량,Jumlah pesanan
+2186,2223,진행되다,Berlangsung
+2187,2224,침전물,Lumpur
+2188,2225,처리하다,"Menangani, mengelola"
+2189,2226,채우다,Mengisi
+2190,2227,터파기,Penggali
+2191,2228,펌프,Pompa
+2192,2229,퍼내다,"Mengeruk, menggali"
+2193,2230,파다,Menggali
+2194,2231,토사,Tanah pasir
+2195,2232,호스,Selang
+2196,2233,하천,Sungai
+2197,2234,흐르다,Mengalir
+2198,2235,흙,Tanah
+2199,2236,흡입하다,Penyedotan
+2200,2237,핸드 램머,Pemukul tangan
+2201,2238,댐,Bendungan
+2202,2239,교량,Jembatan
+2203,2240,철도,Rel kereta
+2204,2241,사막의 녹색혁명,Revolusi hijau di gurun
+2205,2242,육상 터 널,Terowongan darat
+2206,2243,사장교,Jembatan kabel
+2207,2244,해저침 매터널,Terowongan bawah laut
+2208,2245,BAB 45 농작물 재배,Budidaya tanaman
+2209,2246,거름,Pupuk
+2210,2247,경운기,Bajak putar
+2211,2248,고구마,Ubi jalar
+2212,2249,고라니,Rusa air
+2213,2250,곡괭이,Sekop
+2214,2251,고추,Cabai
+2215,2252,감자,Kentang
+2216,2253,감,Kesemek
+2217,2254,나뭇가지,Dahan pohon
+2218,2255,누수,Kebocoran
+2219,2256,농작물,Tanaman
+2220,2257,농약,Pestisida
+2221,2258,논,Sawah
+2222,2259,넘어지다,Jatuh
+2223,2260,따 먹다,Memetik dan memakannya
+2224,2261,따다,Memetikk
+2225,2262,무,Berat
+2226,2263,모판,Pembibitan
+2227,2264,모내기하다,Tanam padi
+2228,2265,물을 대다,Menyiram
+2229,2266,밭,Ladang
+2230,2267,배,Pir
+2231,2268,배추,Kubis
+2232,2269,복숭아,Persik
+2233,2270,봉지,Kantong
+2234,2271,베다,Memotong
+2235,2272,벼,Batang padi
+2236,2273,변하다,Berubah
+2237,2274,블루베리,Blueberry
+2238,2275,비닐하우스,Rumah kaca
+2239,2276,비료,Pupuk
+2240,2277,뽑다,Menarik keluar
+2241,2278,살짝,Secara ringan
+2242,2279,삽,Sekop
+2243,2280,수확하다,Panen
+2244,2281,손자국이 남다,Meninggalkan jejak tangan
+2245,2282,씨앗을 뿌리다,Menanam biji
+2246,2283,씌우다,Menutupi
+2247,2284,심다,Menanam
+2248,2285,예초기,Pemotong rumput
+2249,2286,오이,Mentimun
+2250,2287,울타리망,Pagar jaring
+2251,2288,익다,Matang
+2252,2289,장갑,Sarung tangan
+2253,2290,잡초,Rumput liar
+2254,2291,잎사귀,Daun
+2255,2292,전작,Tanaman lapangan
+2256,2293,지주대,Tiang penopang
+2257,2294,참외,Melon oriental
+2258,2295,케이블타이,Tali kabel
+2259,2296,파종 상자 / 육모 상자,Tray penaburan / tray bibit
+2260,2297,트랙터,Traktor
+2261,2298,포도,Anggur
+2262,2299,호미,Cangkul kecil (wangkil)
+2263,2300,호박,Labu
+2264,2301,스마트팜,Pertanian cerdas
+2265,2302,상추,Selada
+2266,2303,청경채,Sawi
+2267,2304,바질,Kemangi
+2268,2305,BAB 46 사육 관리,Pengelolaan peternakan
+2269,2306,건초,Rumput kering
+2270,2307,계량컵,Gelas ukur
+2271,2308,급수기,Alat pemberi air
+2272,2309,급여하다,Memberi makan
+2273,2310,급이기,Alat pemberi makan
+2274,2311,나중에,"Nanti, kemudian"
+2275,2312,농장,Ladang
+2276,2313,조사료,Pakan serat
+2277,2314,닭,Ayam
+2278,2315,돼지,Babi
+2279,2316,말,Kuda
+2280,2317,먹이,Pakan
+2281,2318,바가지,Gayung
+2282,2319,물청소하다,Pembersihan dengan air
+2283,2320,배합 사료,Pakan campuran
+2284,2321,분뇨,Kotoran
+2285,2322,분뇨 탱크,Tangki kotoran
+2286,2323,사료,Pakan
+2287,2324,사료조,Tempat pakan
+2288,2325,소,Sapi
+2289,2326,양,"Kambing, domba"
+2290,2327,양계,Peternakan unggas
+2291,2328,양계장,Kandang ayam
+2292,2329,양돈,Peternakan babi
+2293,2330,양우,Peternakan sapi
+2294,2331,오리,Bebek
+2295,2332,우방,Kios
+2296,2333,이동시키다,Memindahkan
+2297,2334,짚,Jerami
+2298,2335,키우다,Memelihara
+2299,2336,토끼,Kelinci
+2300,2337,톱밥,Serbuk gergaji
+2301,2338,소 농장 / 소 축사,Peternakan / kandang sapi
+2302,2339,돼지 농장 / 돼지 축사,Peternakan / kandang babi
+2303,2340,닭 농장 / 양계장,Peternakan / kandang ayam
+2304,2341,트랙터,Traktor
+2305,2342,육류 소비,Konsumsi daging
+2306,2343,쌀,Beras
+2307,2344,인당,Per kapita
+2308,2345,삼겹살,Perut babi
+2309,2346,대표하다,Mewakili
+2310,2347,육류,Daging hewan
+2311,2348,한우,Daging sapi korea
+2312,2349,치맥,Ayam goreng dan bir
+2313,2350,삼계탕,Sup ayam ginseng
+2314,2351,찜닭,Semur ayam
+2315,2352,닭갈비,Tumis ayam bumbu pedas
+2316,2353,프라이드치킨,Ayam goreng
+2317,2354,증가,Meningkat
+2318,2355,BAB 47 연안 어업과 양식,Industri Perikanan di pesisir dan budidaya
+2319,2356,고압 분사기,Mesin penyemprot tekanan tinggi
+2320,2357,갑판,Dek kapal
+2321,2358,그물,Jaring
+2322,2359,꼬이다,Terbelit
+2323,2360,끌어 올리다,Menarik ke atas
+2324,2361,농도,Konsentrasi
+2325,2362,낚시하다,Memancing
+2326,2363,대비하다,Persiapan
+2327,2364,닻,Jangkar
+2328,2365,뜰채,Jaring tangan
+2329,2366,바늘대,Jarum jaring
+2330,2367,바늘,Jarum
+2331,2368,바구니,Keranjang
+2332,2369,물고기,Ikan
+2333,2370,부표,Pelampung
+2334,2371,보고하다,Melapor
+2335,2372,산소 공급기,Sistem pasokan oksigen
+2336,2373,산소,Oksigen
+2337,2374,선별하다,Menyortir
+2338,2375,수선하다,Memperbaiki
+2339,2376,수조,Tangki
+2340,2377,수질,Kualitas air
+2341,2378,양망기,Alat pengangkat jaring
+2342,2379,양식업,Industri budidaya perikanan
+2343,2380,양식장,Budidaya ikan
+2344,2381,어류,Ikan
+2345,2382,어업,Industri perikanan
+2346,2383,예비용,Cadangan
+2347,2384,온도계,Termometer
+2348,2385,유통기한,Tanggal kadaluarsa
+2349,2386,접히다,"Dilipat, terlipat"
+2350,2387,찢어지다,Sobek
+2351,2388,차광막,Kain peneduh
+2352,2389,추가하다,"Tambahan, menambahkan"
+2353,2390,통발,Perangkap ikan
+2354,2391,흔들리다,"Terguncang, mengombang ambing"
+2355,2392,어업 도구,Alat perikanan
+2356,2393,밧줄,Tambang
+2357,2394,낚시 바늘,Kail pancing
+2358,2395,어업 활동,Kegiatan perikanan
+2359,2396,세척하다,Mencuci
+2360,2397,건조하다 / 말리다,Mengeringkan
+2361,2398,펌프,Pompa
+2362,2399,사료를 주다,Memberi pakan
+2363,2400,수질을 측정하다,Mengukur kualitas air
+2364,2401,어류를 선별하다,Memilah ikan
+2365,2402,산소 농도,Kadar oksigen
+2366,2403,조개류,Kerang
+2367,2404,해조류,Rumput laut
+2368,2405,확대되다,"Diperluas, dibesarkan"
+2369,2406,새우,Udang
+2370,2407,굴,Tiram
+2371,2408,효율성,Efektivitas
+2372,2409,BAB 48 선체 건조,Konstruksi badan kapal
+2373,2410,가새,Penyangga
+2374,2411,고장,Kerusakan
+2375,2412,강관 비계,Perancah pipa baja
+2376,2413,골고루,Merata
+2377,2414,금이 가다,Retak
+2378,2415,구조물,Struktur sementara
+2379,2416,갑판,Lantai kayu
+2380,2417,녹,Karat
+2381,2418,능률,"Efisiensi, kemampuan"
+2382,2419,대각선,Diagonal
+2383,2420,띠장,Papan penahan
+2384,2421,마무리하다,Penyelesaian
+2385,2422,도료,Cat
+2386,2423,매끄럽다,Licin
+2387,2424,면적,Luas area
+2388,2425,밑받침 철물,Perangkat logam dasar
+2389,2426,밑둥잡이,"tonggak, pangkal pohon"
+2390,2427,물기,Kelembaban
+2391,2428,부식,Korosi
+2392,2429,분사하다,Menyemprot
+2393,2430,비계기둥,Tiang scaffolding
+2394,2431,선미부,Buritan (bagian paling belakang kapal)
+2395,2432,선박,Kapal
+2396,2433,선수부,Bagian busur
+2397,2434,선원실,Ruang kru
+2398,2435,선체,Rangka kapal
+2399,2436,세우다,Berdiri
+2400,2437,수직,Vertikal
+2401,2438,수평,Horizontal
+2402,2439,안정성,Kestabilan
+2403,2440,실수하다,Melakukan kesalahan
+2404,2441,에어 스프레이 건,Pistol semprot udara
+2405,2442,에어리스스프레이 건,Pistol semprot tanpa udara
+2406,2443,에어리스스프레이 펌프,Pompa semprot tanpa udara
+2407,2444,안전난간,Pagar pengaman
+2408,2445,안전 로프,Tali pengaman
+2409,2446,임시로,Sementara
+2410,2447,장선,Kawat panjang
+2411,2448,작업발판,Platform kerja
+2412,2449,정기적,Teratur
+2413,2450,중앙부,Bagian tengah
+2414,2451,지지대,Penopang
+2415,2452,조타실,Ruang kemudi
+2416,2453,품질,Kwalitas
+2417,2454,고객,Pelanggan
+2418,2455,프로펠러,Baling-baling
+2419,2456,변색,Perubahan warna
+2420,2457,균열,"Retak, terbelah"
+2421,2458,도료 호스,Selang cat
+2422,2459,깔판,Papan lantai
+2423,2460,조선업,Pembuatan kapal
+2424,2461,끊임없이,Terus menerus
+2425,2462,컨테이너선,Kapal konteiner
+2426,2463,가스운반선,Kapal pengangkut gas
+2427,2464,설계,"Rancangan, perencanaan"
+2428,2465,경쟁,Daya saing
+2429,2466,BAB 49 광물 자원 개발 생산,Pengembangan dan produksi sumber daya mineral
+2430,2467,갱구,Pintu masuk terowongan
+2431,2468,갱도,Terowongan
+2432,2469,골라내다,Memilih
+2433,2470,광부,Penambang
+2434,2471,광석,Bijih besi
+2435,2472,광차,Kereta tambang
+2436,2473,깔다,Meletakkan
+2437,2474,권양기,Mesin angkat
+2438,2475,깨다,Memecah
+2439,2476,레일,Rel
+2440,2477,덩어리,Gumpalan
+2441,2478,막장,Tambang (pertambangan)
+2442,2479,바위,Batu
+2443,2480,발파하다,"Meledakkan, Melubangi (dgn meledakkan)"
+2444,2481,버력,Kekotoran
+2445,2482,부수다,"Merusak, memecahkan, mematahkan"
+2446,2483,사갱,Poros
+2447,2484,석탄,Batubara
+2448,2485,선탄장,Pabrik batubara
+2449,2486,수갱,Saluran pembuangan
+2450,2487,수평갱,Terowongan horizontal
+2451,2488,스크레이퍼,Alat pengikis tanah
+2452,2489,시설,Fasilitas
+2453,2490,인차,Kendaraan
+2454,2491,일손,Pekerja
+2455,2492,지주,Penopang
+2456,2493,착암기,Bor batu
+2457,2494,채광,Penambangan
+2458,2495,채광장,Tempat penambangan
+2459,2496,채탄,Penambangan batubara
+2460,2497,티플링실,Ruang pemuatan
+2461,2498,컨베이어,Sabuk konveyor
+2462,2499,탄광,Tambang batubara
+2463,2500,퍼 올리다,"Mengangkat, menarik, memompa"
+2464,2501,폭파하다,"Meledakkan, meruntuhkan"
+2465,2502,폭약,Bahan peledak
+2466,2503,함마,Palu besar
+2467,2504,바위에 구멍을 뚫다,Melubangi batu
+2468,2505,폭약을 설치하다,Memasang bahan peledak
+2469,2506,버력을 골라내다,Memilih dengan mengeluarkan kotoran
+2470,2507,석탄을 퍼올리다,Mengambil batubara
+2471,2508,석탄을 부수다,Memecah batubara
+2472,2509,레일을 깔다,Memasang rel
+2473,2510,지주를 세우다,Mendirikan tiang penyangga
+2474,2511,간격,"Jarak, interval"
+2475,2512,전선 접속,Penyambungan kabel listrik
+2476,2513,전선,Kabel listrik
+2477,2514,안전장갑,Sarung tangan keamanan
+2478,2515,팀원,Anggota tim
+2479,2516,사고,Kecelakaan
+2480,2517,BAB 50 산림 자원 조성,Pengelolaan sumber daya hutan
+2481,2518,거리,Jarak
+2482,2519,가지,Cabang
+2483,2520,굴착기,Ekskavator
+2484,2521,굴취,Penggalian
+2485,2522,나무,Pohon
+2486,2523,둥글다,Bulat
+2487,2524,밑동,Pangkalan (bagian bawah pohon)
+2488,2525,밴드,Tali pengikat
+2489,2526,벌목,Penebangan pohon
+2490,2527,벌채지,Lokasi penebangan
+2491,2528,분 감기,Pembungkusan bola akar
+2492,2529,분,Bola akar
+2493,2530,부러뜨리다,"Mematahkan, membelah"
+2494,2531,순서,Urutan
+2495,2532,소형,Ukuran kecil
+2496,2533,아랫부분,Bagian bawah
+2497,2534,운재,Pengangkutan kayu
+2498,2535,잔뿌리,Akar halus
+2499,2536,줄기,Batang
+2500,2537,지름,Diameter
+2501,2538,조재,Pemotongan
+2502,2539,집재,Pengumpulan kayu
+2503,2540,집재장,Lapangan kayu
+2504,2541,체인톱,Gergaji rantai
+2505,2542,치다,Memangkas
+2506,2543,토막을 내다,Memotong menjadi bagian-bagian
+2507,2544,톱,Gergaji
+2508,2545,톱질하다,Pemotongan
+2509,2546,표시하다,Penandaan
+2510,2547,풀리다,Melonggar
+2511,2548,하베스터,Mesin pemanen (jenis mesin pemanen)
+2512,2549,마대,Karung goni
+2513,2550,뿌리 가위,Gunting akar
+2514,2551,소형 굴착기,Excavator kecil
+2515,2552,산림 자원,Sumber daya hutan
+2516,2553,울창한,"Lebat, rimbun"
+2517,2554,정책,Kebijakan
+2518,2555,나무 심기,Penanaman pohon
+2519,2556,휴양,Rekreasi
+2520,2557,관광,Pariwisata
+2521,2558,스포츠,Olah raga
+2522,2559,레크리에이션,Rekreasi
+2523,2560,BAB 51 숙박 서비스,Layanan perhotelan
+2524,2561,DND 카드,Kartu Do Not Disturb (jangan ganggu)
+2525,2562,가져다 놓다,Meletakkan
+2526,2563,객실,Kamar tamu
+2527,2564,객실 용품,Perlengkapan kamar
+2528,2565,녹다,"Mencair, meleleh"
+2529,2566,대다,Mengetuk
+2530,2567,대걸레,Pel (pembersih lantai)
+2531,2568,떼다,Menghapus
+2532,2569,마스터키,Kunci utama
+2533,2570,마른 걸레,Kain lap kering
+2534,2571,린스,Kondisioner (rambut)
+2535,2572,린넨실,Ruang linen (kain dari serat tumbuhan)
+2536,2573,리모컨,Remote control
+2537,2574,메이드 보고서,Laporan pembantu rumah tangga
+2538,2575,메이크업 카드,Kartu makeup
+2539,2576,목욕가운,Jubah mandi
+2540,2577,바디워시,Sabun mandi tubuh
+2541,2578,비누,Sabun
+2542,2579,비품실,Ruang perlengkapan
+2543,2580,샴푸,Sampo
+2544,2581,생수,Air mineral
+2545,2582,스낵,Camilan
+2546,2583,수건,Handuk
+2547,2584,소모품,Barang habis pakai
+2548,2585,시트,"tempat duduk, Seprai (untuk tempat tidur)"
+2549,2586,얼룩,Noda
+2550,2587,어메니티,Fasilitas
+2551,2588,옷걸이,Gantungan pakaian
+2552,2589,이불보,Pelindung selimut
+2553,2590,전화선,Kabel telepon
+2554,2591,전등,Lampu
+2555,2592,전동식,Digerakkan oleh motor
+2556,2593,줍다,"Mengambil, memungut"
+2557,2594,치약,Pasta gigi
+2558,2595,칫솔,Sikat gigi
+2559,2596,침대보,Seprai
+2560,2597,청소도구함,Kotak peralatan kebersihan
+2561,2598,커튼을 치다,Menarik tirai
+2562,2599,플러그,"Colokan, stop kontak"
+2563,2600,하우스키핑 카트,Kereta housekeeping
+2564,2601,화장대,Meja rias
+2565,2602,헤어드라이어,Pengering rambut
+2566,2603,비품실,Ruang perlengkapan
+2567,2604,청소도구함,Kotak alat pembersih
+2568,2605,소모품 / 어메니티,Habis pakai/ fasilitas
+2569,2606,객실 용품,Perlengkapan ruangan
+2570,2607,관광지,Tempat wisata
+2571,2608,아름다운,Indah
+2572,2609,인기,"Populer, terkenal"
+2573,2610,BAB 52 음식 조리,Menyiapkan makanan
+2574,2611,곰팡이가 피다,Tumbuh jamur
+2575,2612,강판,Parutan
+2576,2613,개월,Bulan (satuan)
+2577,2614,국자,Sendok sup (irus)
+2578,2615,깎기 (필러),Pengupas
+2579,2616,녹이다,Mencairkan
+2580,2617,대용량,Kapasitas besar
+2581,2618,도마,Papan pemotong (talenan)
+2582,2619,망,Jaring
+2583,2620,뒤집개,Sodet (sotil) penggorengan
+2584,2621,밀폐용기,Wadah kedap udara
+2585,2622,번식하다,"Bereproduksi, berkembangbiak"
+2586,2623,부패하다,Membusuk
+2587,2624,비닐랩,Plastik pembungkus
+2588,2625,세균,Bakteri
+2589,2626,소분하다,Membagi (pembagian kecil)
+2590,2627,소비 기한,Tanggal kedaluwarsa
+2591,2628,소스,Saus
+2592,2629,손질하다,Memangkas
+2593,2630,식자재,Bahan makanan
+2594,2631,시들다,Layu
+2595,2632,식재료,Bahan makanan
+2596,2633,식중독,Keracunan makanan
+2597,2634,신문지,Kertas koran
+2598,2635,실온,Suhu ruang
+2599,2636,싹이 나다,Tumbuh tunas
+2600,2637,쌀,Beras
+2601,2638,썩다,Membusuk
+2602,2639,안전 관리,Manajemen keselamatan
+2603,2640,유제품,Produk olahan susu
+2604,2641,위생백,Tas kebersihan
+2605,2642,육류,Daging
+2606,2643,주방용품,Perlengkapan dapur
+2607,2644,주방 집기,Peralatan dapur
+2608,2645,주문서,Formulir pesanan
+2609,2646,주걱,Sendok nasi (centong)
+2610,2647,지퍼백,Kantong ritsleting
+2611,2648,치즈,Keju
+2612,2649,쿠킹호일,Aluminium foil
+2613,2650,키친타월,Handuk dapur
+2614,2651,통조림,Pengalengan
+2615,2652,피다,"Tumbuh (u/ jamur), mekar ( u/ bunga)"
+2616,2653,핏물이생기다,Berdarah
+2617,2654,해동하다,"Mencairkan, melelehkan"
+2618,2655,해산물,Makanan laut
+2619,2656,주목,Perhatian
+2620,2657,갈비탕,Sup iga sapi
+2621,2658,BAB 53 산업 안전 및 보건 표지,Rambu keselamatan dan kesehatan kerja
+2622,2659,경고하다,Memberi peringatan
+2623,2660,그냥,"Begitu saja, sebagaimana adanya"
+2624,2661,금지하다,Larangan
+2625,2662,기대다,Bersandar
+2626,2663,낙하물,Jatuh dari atas (u/ obyek)
+2627,2664,데다,Terbakar
+2628,2665,독성,Racun
+2629,2666,바닥면,Permukaan lantai
+2630,2667,바이러스,Penjepit
+2631,2668,물질,"Bahan, materi"
+2632,2669,미끄럽다,Licin
+2633,2670,방사선,Radiasi
+2634,2671,방사능,Radioaktif
+2635,2672,발화원,Sumber api
+2636,2673,발연,Asap
+2637,2674,불이 붙다,Terbakar
+2638,2675,불을 붙이다,Menyalakan api
+2639,2676,불,Api
+2640,2677,삽입하다,Menyisipkan
+2641,2678,산업용 차량,Kendaraan industri
+2642,2679,산업용 운반기계,Mesin angkut industri
+2643,2680,생물학적,Biologis
+2644,2681,생물,Makhluk hidup
+2645,2682,승객용,Untuk penumpang
+2646,2683,승강기,Lift (u/ barang)
+2647,2684,야외용,Untuk luar ruangan
+2648,2685,알리다,Memberitahukan
+2649,2686,위험하다,"Risiko, berbahaya"
+2650,2687,위해,"Bahaya, musibah, malapetaka"
+2651,2688,유출되다,Kebocoran
+2652,2689,이온화,Pengionan
+2653,2690,인화,Mudah terbakar
+2654,2691,일반,Umum
+2655,2692,전기,Listrik
+2656,2693,장애물,Hambatan
+2657,2694,접근하다,Akses
+2658,2695,지나가다,Melewati
+2659,2696,착용하다,Memakai
+2660,2697,착화,Penyalaan
+2661,2698,추락하다,Terjatuh
+2662,2699,취급하다,Menangani
+2663,2700,표지,Tanda
+2664,2701,통행하다,"Lewat, keluar masuk"
+2665,2702,통로,"Jalan, lorong"
+2666,2703,화재,Kebakaran
+2667,2704,휴대용그라인더,Mesin penggiling portable
+2668,2705,휴대폰전원을 끄시오 (휴대폰 사용금지),Matikan ponsel anda
+2669,2706,물을 마시지 마시오 (마시면 안되는 물),Jangan minum air
+2670,2707,올라가지 마시오 (등반금지),Jangan naik (dilarang naik)
+2671,2708,밀지 마시오,Jangan dorong
+2672,2709,앉지 마시오,Jangan duduk
+2673,2710,애견 금지,Dilarang membawa anjing
+2674,2711,식음료 금지,Dilarang makan minum
+2675,2712,사진 촬영금지,Dilarang memotret
+2676,2713,달리기 금지,Dilarang berlari
+2677,2714,수영금지,Dilarang berenang
+2678,2715,의자를 흔들지 마시오,Jangan menggoyang kursi
+2679,2716,임산부 금지,Dilarang untuk ibu yang hamil
+2680,2717,중독된 사람금지,Orang mabuk dilarang
+2681,2718,로프에 매듭을 짓지 마시오,Jangan membuat simpul pada tali
+2682,2719,토트랙을 벗어 나지 마시오,Jangan tinggalkan jejak kaki
+2683,2720,BAB 54 산업 안전 및 보건 수칙,Aturan keselamatan dan kesehatan industri
+2684,2721,개구부,"Pembukaan, pintu masuk"
+2685,2722,개인,"Pribadi, perorangan"
+2686,2723,귀마개,Penutup telinga
+2687,2724,끼이다,"Terjepit, terselip"
+2688,2725,낙하하다,"Jatuh, terjun"
+2689,2726,난간,Pegangan tangan
+2690,2727,대피하다,"Mengungsi, Menyelamatkan diri"
+2691,2728,막다,Mencegah
+2692,2729,밀폐공간,Ruang tertutup
+2693,2730,반드시,"Pasti, mutlak, wajib"
+2694,2731,방호덮개,Penutup pelindung
+2695,2732,방호장치,Alat pengaman
+2696,2733,보호구,Peralatan pelindung
+2697,2734,보건,Kesehatan
+2698,2735,산업,Industri
+2699,2736,사항,"Hal-hal, poin"
+2700,2737,석면,Serat asbes
+2701,2738,섭취하다,Mengonsumsi
+2702,2739,수칙,Peraturan
+2703,2740,수리하다,Merbaiki
+2704,2741,실시하다,Melaksanakan
+2705,2742,안전화,Sepatu pengaman
+2706,2743,안전대,Sabuk pengaman
+2707,2744,안전모,Helm keselamatan
+2708,2745,안전보건 교육,Pelatihan keselamatan dan kesehatan
+2709,2746,안전보건 표지판,Tanda keselamatan
+2710,2747,음식물,Makanan
+2711,2748,재해,Bencana
+2712,2749,장치,"Perlengkapan, alat"
+2713,2750,잠금장치,Perangkat pengunci
+2714,2751,중단하다,Membatalkan
+2715,2752,줄이다,Mengurangi
+2716,2753,준수하다,"Mematuhi, menaati"
+2717,2754,조작하다,Mengoperasikan
+2718,2755,차단하다,Memutus
+2719,2756,화학물질,Bahan kimia
+2720,2757,소음,Kebisingan
+2721,2758,대피로 표지,Rambu jalur evakuasi
+2722,2759,비상구,Pintu darurat
+2723,2760,탈출 사다리가 있는 비상 창문,Jendela darurat dengan tangga darurat
+2724,2761,구조 창문,Jendela penyelamatan
+2725,2762,시계 반대 방향,Berlawanan arah jarum jam
+2726,2763,왼쪽으로 밀면,Dorong ke kiri
+2727,2764,왼쪽을 당기면 열리는 문,Pintu terbuka saat ditarik ke kiri
+2728,2765,비상 망치,Palu darurat
+2729,2766,탈출 사다리,Tangga pelarian (menyelamatkan diri)
+2730,2767,BAB 55 산업 안전 및 위생 장비,Peralatan keselamatan & kebersihan industri
+2731,2768,LED 램프,Lampu LED
+2732,2769,공통,Kesamaan
+2733,2770,귀덮개,Penutup telinga
+2734,2771,구명조끼,Rompi pelampung
+2735,2772,무릎보호대,Pelindung lutut
+2736,2773,방열하의,Celana tahan panas
+2737,2774,방열장화,Sepatu tahan panas
+2738,2775,방열장갑,Sarung tangan tahan panas
+2739,2776,방열상의,Jaket tahan panas
+2740,2777,방열두건,Penutup kepala tahan panas
+2741,2778,방수 앞치마,Apron (celemek) tahan air
+2742,2779,방독 마스크,Masker gas
+2743,2780,방제복,Pakaian pelindung
+2744,2781,방진 마스크,Masker debu
+2745,2782,보안경,Kacamata pengaman
+2746,2783,송기 마스크,Masker pasokan udara
+2747,2784,안전장갑,Sarung tangan pengaman
+2748,2785,안전,Keselamatan
+2749,2786,안면 보호구,Alat pelindung wajah
+2750,2787,열처리 작업,Perlakuan panas
+2751,2788,오븐 장갑,Sarung tangan oven
+2752,2789,위생,Kebersihan
+2753,2790,위생마스크,Masker kebersihan
+2754,2791,위생모,Topi kebersihan
+2755,2792,위생복,Pakaian kebersihan
+2756,2793,위생장갑,Sarung tangan kebersihan
+2757,2794,위생장화,Sepatu kebersihan
+2758,2795,용접면,Topeng las pelindung wajah
+2759,2796,장비,Peralatan
+2760,2797,절연 장화,Sepatu isolasi
+2761,2798,절연 장갑,Sarung tangan isolasi
+2762,2799,절연 안전모,Helm isolasi
+2763,2800,절단방지장갑,Sarung tangan tahan potong
+2764,2801,축산,Peternakan
+2765,2802,특화,Spesialisasi
+2766,2803,평소,Biasa
+2767,2804,화상을 입다,Terbakar
+2768,2805,강제행동표지,Rambu tindakan wajib
+2769,2806,안전화를 착용하시오,Kenakan sepatu keselamatan
+2770,2807,보호 장갑을 착용하시오,Kenakan sarung tangan pelindung
+2771,2808,방호복을 착용하시오,Kenakan pakaian pelindung
+2772,2809,손을 씻으시오,Cuci tangan anda
+2773,2810,손잡이를 사용하시오,Gunakan pegangan
+2774,2811,얼굴보호구를 착용하시오,Kenakan pelindung wajah
+2775,2812,가시성이 높은 옷 착용하시오,Kenakan pakaian visibilitas tinggi
+2776,2813,머리보 호구를 착용하시오,Kenakan pelindung kepala
+2777,2814,마스크를 착용하시오,Kenakan masker wajah
+2778,2815,호흡기 보호장치를 착용하시오,Kenakan pelindung pernafasan
+2779,2816,안전띠를 착용하시오,Kenakan sabuk pengaman
+2780,2817,용접마스크를 착용하시오,Kenakan masker las
+2781,2818,안전벨트를 착용하시오,Kenakan sabuk pengaman
+2782,2819,이 통로를 이용하시오,Gunakan lorong ini
+2783,2820,보호용 앞치마를 착용하시오,Kenakan celemek pelindung
+2784,2821,잠그시오,Tolong kunci
+2785,2822,경적을 울리시오,Bunyikan klakson
+2786,2823,쓰레기통을 사용하시오,Gunakan tempat sampah
+2787,2824,BAB 56 산업 재해 및 응급 처치,Kecelakaan industri & pertolongan pertama
+2788,2825,경찰서,Kantor polisi
+2789,2826,감전,Sengatan listrik
+2790,2827,관리감독자,Pengawas manajemen
+2791,2828,긴급,Darurat
+2792,2829,대응하다,Menyesuaikan diri
+2793,2830,도움,Bantuan
+2794,2831,무너지다,Runtuh
+2795,2832,방화문,Pintu api
+2796,2833,밸브,"Katup, kran"
+2797,2834,보호하다,Melindungi
+2798,2835,베이다,"Terpotong, tersayat"
+2799,2836,비상 전화,Telepon darurat
+2800,2837,삐다,Terkilir
+2801,2838,산화성,Oksidasi / menguap
+2802,2839,상급자,Atasan
+2803,2840,상여금,Bonus
+2804,2841,상황별,"Berdasarkan situasi, kontekstual"
+2805,2842,사건,Kejadian
+2806,2843,설명하다,Menjelaskan
+2807,2844,소방 장비,Peralatan pemadam kebakaran
+2808,2845,소방서,Pemadam kebakaran (119)
+2809,2846,소화전,Hydran pemadam kebakaran
+2810,2847,외치다,Berteriak
+2811,2848,요령,Pedoman
+2812,2849,요청하다,"Memohon, meminta"
+2813,2850,응급조치,Pertolongan pertama
+2814,2851,응급,Darurat
+2815,2852,유해,Berbahaya
+2816,2853,인화성,Mudah terbakar
+2817,2854,점화원,Sumber penyalaan
+2818,2855,진행하다,"Berlangsung, menuju"
+2819,2856,진화하다,Memadamkan
+2820,2857,질식,"Sesak nafas, sulit nafas"
+2821,2858,초기,"Awal, permulaan"
+2822,2859,처치하다,Menangani
+2823,2860,통화하다,Menelpon
+2824,2861,호스릴,Ril (gulungan) selang
+2825,2862,호흡기,Alat pernapasan
+2826,2863,화기,Energi panas (api)
+2827,2864,화재 경보기,Alarm kebakaran
+2828,2865,화재가 나다,Terjadi kebakaran
+2829,2866,현장,lapangan (tempat) kerja
+2830,2867,응급처치,Pertolongan pertama
+2831,2868,비상 전화,Telepon darurat
+2832,2869,들것,"Tandu, usungan"
+2833,2870,자동 심장박동기,Alat pacu jantung otomatis
+2834,2871,구급 가방,Tas pertolongan pertama
+2835,2872,산소 호흡기,Resusitasi (sistem pernapasan) oksigen
+2836,2873,비상 탈출용호흡기,Alat bantu pernapasan darurat
+2837,2874,구명 부이,Rompi pelampung renang
+2838,2875,BAB 57 고용허가제,Sistem izin kerja
+2839,2876,1차,Pertama (ronde)
+2840,2877,2차,Kedua (ronde)
+2841,2878,건설업,Konstruksi
+2842,2879,고용허가제,Sistem izin kerja
+2843,2880,계약하다,"Melakukan kontrak, membuat kontrak"
+2844,2881,공지,Pemberitahuan
+2845,2882,광업,Pertambangan
+2846,2883,근로,Kerja
+2847,2884,기초,"Fondasi, dasar"
+2848,2885,기능 시험,Tes keterampilan
+2849,2886,구직자,Pencari kerja
+2850,2887,농업,Pertanian
+2851,2888,면접,Wawancara
+2852,2889,명부,"Daftar, buku registrasi"
+2853,2890,배치되다,Ditempatkan
+2854,2891,법령,"Undang-undang, hukum, peraturan"
+2855,2892,비자,Visa
+2856,2893,사업장,Tempat kerja
+2857,2894,사전,Sebelumnya
+2858,2895,서비스업,Industri layanan
+2859,2896,송부,Pengiriman
+2860,2897,신입 사원,Karyawan baru
+2861,2898,업종,Jenis industri
+2862,2899,음식서비스업,Layanan makanan
+2863,2900,임업,Kehutanan
+2864,2901,입국,Kedatangan (masuk ke negara)
+2865,2902,작성하다,"Menulis, mencatat"
+2866,2903,절차,Prosedur
+2867,2904,제조업,Industri manufaktur
+2868,2905,조선업,Industri kapal
+2869,2906,축산업,Industri peternakan
+2870,2907,체력,Kekuatan fisik / tubuh
+2871,2908,취업,Mendapatkan pekerjaan
+2872,2909,체결,Penandatanganan kontrak
+2873,2910,콘도업,Bisnis hotel dan kondominium
+2874,2911,평가,Penilaian evaluasi
+2875,2912,한국어능력시험,Ujian kemampuan bahasa korea
+2876,2913,훨씬,Jauh lebih
+2877,2914,BAB 58 근로기준법,UU standar ketenagakerjaan
+2878,2915,건강보험,Asuransi kesehatan
+2879,2916,고용보험,Asuransi ketenagakerjaan
+2880,2917,공제하다,Memotong
+2881,2918,공제액,Jumlah potongan
+2882,2919,금액,Jumlah uang
+2883,2920,급여,Gaji
+2884,2921,기본급,Gaji pokok
+2885,2922,기본,"Dasar, pokok"
+2886,2923,국민연금,Pensiun nasional
+2887,2924,궁금하다,Ingin tahu
+2888,2925,내용,Isi
+2889,2926,내역,"Rincian, detail"
+2890,2927,떨어지다,Jatuh
+2891,2928,들어오다,Masuk
+2892,2929,명세서,"Bukti pembayaran, slip"
+2893,2930,부담하다,Menanggung tanggung jawab (beban)
+2894,2931,부담없다,Bebas dari tanggung jawab (beban)
+2895,2932,세금,Pajak
+2896,2933,소득세,Pajak penghasilan
+2897,2934,숙식,Tempat tinggal dan makan
+2898,2935,수습,Percobaan
+2899,2936,수당,Tunjangan
+2900,2937,식대,Uang makan
+2901,2938,실제로,Sebenarnya
+2902,2939,실수령액,Gaji bersih
+2903,2940,야간,Kerja malam
+2904,2941,연말정산,Penyesuaian pajak akhir tahun
+2905,2942,연장 근로,Kerja lembur
+2906,2943,월급,Gaji bulanan
+2907,2944,임금,Upah
+2908,2945,제공하다,Menyediakan
+2909,2946,제출하다,"Mengajukan, menyodorkan"
+2910,2947,조건,Kondisi
+2911,2948,주민세,Pajak penduduk
+2912,2949,지급하다,Melakukan pembayaran
+2913,2950,지급액,Jumlah pembayaran
+2914,2951,지급일,Tanggal pembayaran
+2915,2952,환급하다,Pengembalian uang pembayaran
+2916,2953,휴게,Istirahat
+2917,2954,휴일,Hari libur
+2918,2955,합계,Total
+2919,2956,급여 명세서,Slip gaji
+2920,2957,표준근로계약서,SLC (surat kontrak kerja standar)
+2921,2958,법적,"Resmi, sah"
+2922,2959,근로 계약 기간,Masa kontrak kerja
+2923,2960,근로 장소,Lokasi tempat kerja
+2924,2961,업무 내용,Rincian pekerjaan
+2925,2962,휴게 시간,Waktu istirahat
+2926,2963,숙식 제공,Ketersediaan kamar
+2927,2964,BAB 59 출입국관리법,UU imigrasi
+2928,2965,가능,Kemungkinan
+2929,2966,거주 / 숙소제공 확인서,Surat konfirmasi tempat tinggal
+2930,2967,고치다,Memperbaiki
+2931,2968,고용주,Majikan
+2932,2969,귀국하다,"Kepulangan, kembali ke negara asal"
+2933,2970,구직등록필증,Kartu pencari kerja
+2934,2971,마약,Narkoba
+2935,2972,마약 검사확인서,Formulir konfirmasi tes narkoba
+2936,2973,만료되다,Kadaluwarsa
+2937,2974,만료일,Tanggal kadaluwarsa
+2938,2975,등록하다,"Mendaftar, melakukan registrasi"
+2939,2976,목록,Daftar
+2940,2977,반복하다,"Pengulangan, berulang-ulang"
+2941,2978,발급받다,Menerima penerbitan (izin)
+2942,2979,물어보다,mencoba bertanya
+2943,2980,법무부,Kementerian kehakiman
+2944,2981,변경하다,Mengubah
+2945,2982,불만,"Ketidakpuasan, keluhan"
+2946,2983,비회원,Non anggota
+2947,2984,사본,Salinan
+2948,2985,사업자등록증,Lisensi usaha (surat ijin usaha)
+2949,2986,수수료,Biaya administrasi
+2950,2987,수령하다,"Menerima, memperoleh"
+2951,2988,소식,"Berita, kabar"
+2952,2989,여유,Waktu luang
+2953,2990,연락,Kontak
+2954,2991,연장하다,Memperpanjang
+2955,2992,외국인,Orang asing
+2956,2993,외국인등록증,Kartu identitas penduduk asing
+2957,2994,이내,Dalam batasan
+2958,2995,이직하다,Ganti (pindah kerja)
+2959,2996,임대차계약서,Perjanjian sewa / kontrak
+2960,2997,자격,Status
+2961,2998,자진 출국각서,Surat pernyataan keberangkatan sukarela
+2962,2999,정확히,Dengan tepat
+2963,3000,지정하다,"Menunjuk, menetapkan"
+2964,3001,지방,Daerah
+2965,3002,고용노동관서,Kantor ketenagakerjaan daerah
+2966,3003,차다,Penuh
+2967,3004,출입국 ·외국인 사무소,Kantor imigrasi
+2968,3005,체류허가신청확인서,Konfirmasi aplikasi izin tinggal
+2969,3006,체류지 입증서류,Bukti tempat tinggal
+2970,3007,체류하다,Tinggal
+2971,3008,통합신청서,formulir aplikasi terintegrasi
+2972,3009,횟수,Jumlah hitungan
+2973,3010,허가,izin
+2974,3011,외국인 등록,Registrasi orang asing
+2975,3012,지방출입국,Kantor imigrasi setempat
+2976,3013,제출,"Penyerahan, penyodoran"
+2977,3014,체류 자격,Status izin tinggal
+2978,3015,국가 / 지역,Negara / wilayah
+2979,3016,BAB 60 근로자 보험,Asuransi pekerja
+2980,3017,4 대 보험,Empat jenis asuransi
+2981,3018,가입하다,Mendaftar
+2982,3019,귀국비용보험,Asuransi biaya kepulangan
+2983,3020,누구나,Siapa saja
+2984,3021,벌금,Denda
+2985,3022,보험료,Premi asuransi
+2986,3023,병원비,Biaya rumah sakit
+2987,3024,보험 약정,Kontrak asuransi
+2988,3025,보험금,Uang asuransi
+2989,3026,산재보험,Asuransi kecelakaan kerja
+2990,3027,상해보험,Asuransi kecelakaan umum
+2991,3028,사고 입증 서류,Dokumen bukti kecelakaan
+2992,3029,사망,Kematian
+2993,3030,사업주,Majikan
+2994,3031,외국인 근로자전용 보험,Asuransi khusus untuk pekerja asing
+2995,3032,의료비,Biaya medis (perawatan)
+2996,3033,일시금,Pembayaran sekaligus
+2997,3034,임금체불 보증보험,Asuransi jaminan gaji
+2998,3035,입원하다,Dirawat di rumah sakit / opname
+2999,3036,장애,"Disabilitas, cacat"
+3000,3037,장해 보상금,Kompensasi cacat
+3001,3038,입증하다,Membuktikan
+3002,3039,진단서,Surat medis
+3003,3040,질병,Penyakit
+3004,3041,출국예정사실확인서,Surat konfirmasi keberangkatan
+3005,3042,체하다,"Pencernaan tidak lancar, kembung"
+3006,3043,체불 임금,Upah yang belum dibayar
+3007,3044,청구하다,"Mengklaim, menuntut"
+3008,3045,타다,Mengumpulkan
+3009,3046,퇴직금,Pesangon
+3010,3047,혜택,"Manfaat, keuntungan"
+3011,3048,휴업 급여,Tunjangan gaji sementara
+3012,3049,가입,Pendaftaran
+3013,3050,보험의 목적,Tujuan asuransi
